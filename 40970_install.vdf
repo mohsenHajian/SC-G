@@ -1,0 +1,31 @@
+"InstallScript"
+{
+	"Registry"
+	{
+		"HKEY_CURRENT_USER\\Software\\Microsoft\\Windows NT\\CurrentVersion\\AppCompatFlags\\Layers"
+		{
+			"string"
+			{
+				"%INSTALLDIR%\\Stronghold Crusader.exe"		"~ DWM8And16BitMitigation HIGHDPIAWARE"
+			}
+		}
+	}
+	"Run Process"
+	{
+		"GameRanger"
+		{
+			"process 1"		"%INSTALLDIR%\\support\\GameRangerOEMSetup.exe"
+			"command 1"		"/oem /bundle 47107"
+			"IgnoreExitCode"		"1"
+			"NoCleanUp"		"1"
+		}
+		"Firewall"
+		{
+			"Stronghold Crusader"		"%INSTALLDIR%\\Stronghold Crusader.exe"
+		}
+	}
+}
+"kvsignatures"
+{
+	"InstallScript"		"2886902c0b570dafc3d34324c93aff195db52de9aac5c45ce5459f45ba164bb5ef91632d22f53e03649fb94c111357cd53119e2cb841bbe2a10db7ea1a55778fd73378c2944948ef46f77ec2e0f60bab9cdfd26257a0741341e8eabb0d102cdfd590ee38d175f011a63d1caba6e6d8c823df59d1fff251bcad1d8edae94d9772"
+}

@@ -1,0 +1,24 @@
+"InstallScript"
+{
+	"Registry"
+	{
+		"HKEY_CURRENT_USER\\Software\\Microsoft\\Windows NT\\CurrentVersion\\AppCompatFlags\\Layers"
+		{
+			"string"
+			{
+				"%INSTALLDIR%\\Stronghold_Crusader_Extreme.exe"		"~ DWM8And16BitMitigation HIGHDPIAWARE"
+			}
+		}
+	}
+	"Run Process"
+	{
+		"Firewall"
+		{
+			"Stronghold Crusader Extreme"		"%INSTALLDIR%\\Stronghold_Crusader_Extreme.exe"
+		}
+	}
+}
+"kvsignatures"
+{
+	"InstallScript"		"3668c14d99ad15e103f26e7dc530b2294b5f262ffab0667a4590351e8bb87511f61e8e504e327a223b11173d435679e0d1198c9c10831331d0cef04d1bccd0cd00b4d3dca231912944f53e34e834c337eb9b83600344d50bf2c2ef17f21e5ec3ec143f382e0954827499713beca8208f1e7a25a1c1a15a6ee779025d1a2d406c"
+}

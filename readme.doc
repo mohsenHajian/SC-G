@@ -1,0 +1,1101 @@
+{\rtf1\adeflang1025\ansi\ansicpg1252\uc1\adeff0\deff0\stshfdbch0\stshfloch0\stshfhich0\stshfbi0\deflang2057\deflangfe2057{\fonttbl{\f0\froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}{\f1\fswiss\fcharset0\fprq2{\*\panose 020b0604020202020204}Arial;}{\f205\froman\fcharset238\fprq2 Times New Roman CE;}
+{\f206\froman\fcharset204\fprq2 Times New Roman Cyr;}{\f208\froman\fcharset161\fprq2 Times New Roman Greek;}{\f209\froman\fcharset162\fprq2 Times New Roman Tur;}{\f210\fbidi \froman\fcharset177\fprq2 Times New Roman (Hebrew);}
+{\f211\fbidi \froman\fcharset178\fprq2 Times New Roman (Arabic);}{\f212\froman\fcharset186\fprq2 Times New Roman Baltic;}{\f213\froman\fcharset163\fprq2 Times New Roman (Vietnamese);}{\f215\fswiss\fcharset238\fprq2 Arial CE;}
+{\f216\fswiss\fcharset204\fprq2 Arial Cyr;}{\f218\fswiss\fcharset161\fprq2 Arial Greek;}{\f219\fswiss\fcharset162\fprq2 Arial Tur;}{\f220\fbidi \fswiss\fcharset177\fprq2 Arial (Hebrew);}{\f221\fbidi \fswiss\fcharset178\fprq2 Arial (Arabic);}
+{\f222\fswiss\fcharset186\fprq2 Arial Baltic;}{\f223\fswiss\fcharset163\fprq2 Arial (Vietnamese);}}{\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;
+\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;\red128\green128\blue128;\red192\green192\blue192;}{\upr{\stylesheet{
+\ql \li0\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 \fs24\lang2057\langfe2057\cgrid\langnp2057\langfenp2057 \snext0 Normal;}{
+\s1\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\outlinelevel0\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 \fs24\lang2057\langfe2057\cgrid\langnp2057\langfenp2057 \sbasedon0 \snext0 \slink16 \styrsid12391862 heading 1;}{
+\s2\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\outlinelevel1\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 \fs24\lang2057\langfe2057\cgrid\langnp2057\langfenp2057 \sbasedon0 \snext0 \slink15 \styrsid12391862 heading 2;}{\*\cs10 \additive 
+\ssemihidden Default Paragraph Font;}{\*\ts11\tsrowd\trftsWidthB3\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\tblind0\tblindtype3\tscellwidthfts0\tsvertalt\tsbrdrt\tsbrdrl\tsbrdrb\tsbrdrr\tsbrdrdgl\tsbrdrdgr\tsbrdrh\tsbrdrv 
+\ql \li0\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\lang1024\langfe1024\cgrid\langnp1024\langfenp1024 \snext11 \ssemihidden Normal Table;}{\*\cs15 \additive \rtlch\fcs1 
+\af0\afs24\alang1025 \ltrch\fcs0 \fs24\lang2057\langfe2057\langnp2057\langfenp2057 \sbasedon10 \slink2 \slocked \ssemihidden \styrsid12391862 Nagl\'f3wek 2 Znak;}{\*\cs16 \additive \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 
+\fs24\lang2057\langfe2057\langnp2057\langfenp2057 \sbasedon10 \slink1 \slocked \styrsid12391862 Nagl\'f3wek 1 Znak;}{\*\cs17 \additive \rtlch\fcs1 \af0 \ltrch\fcs0 \sbasedon10 \styrsid15999601 apple-converted-space;}}{\*\ud\uc0{\stylesheet{
+\ql \li0\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 \fs24\lang2057\langfe2057\cgrid\langnp2057\langfenp2057 \snext0 Normal;}{
+\s1\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\outlinelevel0\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 \fs24\lang2057\langfe2057\cgrid\langnp2057\langfenp2057 \sbasedon0 \snext0 \slink16 \styrsid12391862 heading 1;}{
+\s2\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\outlinelevel1\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 \fs24\lang2057\langfe2057\cgrid\langnp2057\langfenp2057 \sbasedon0 \snext0 \slink15 \styrsid12391862 heading 2;}{\*\cs10 \additive 
+\ssemihidden Default Paragraph Font;}{\*\ts11\tsrowd\trftsWidthB3\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\tblind0\tblindtype3\tscellwidthfts0\tsvertalt\tsbrdrt\tsbrdrl\tsbrdrb\tsbrdrr\tsbrdrdgl\tsbrdrdgr\tsbrdrh\tsbrdrv 
+\ql \li0\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\lang1024\langfe1024\cgrid\langnp1024\langfenp1024 \snext11 \ssemihidden Normal Table;}{\*\cs15 \additive \rtlch\fcs1 
+\af0\afs24\alang1025 \ltrch\fcs0 \fs24\lang2057\langfe2057\langnp2057\langfenp2057 \sbasedon10 \slink2 \slocked \ssemihidden \styrsid12391862 Nag{\uc1\u322 l\'f3wek 2 Znak};}{\*\cs16 \additive \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 
+\fs24\lang2057\langfe2057\langnp2057\langfenp2057 \sbasedon10 \slink1 \slocked \styrsid12391862 Nag{\uc1\u322 l\'f3wek 1 Znak};}{\*\cs17 \additive \rtlch\fcs1 \af0 \ltrch\fcs0 \sbasedon10 \styrsid15999601 apple-converted-space;}}}}
+{\*\latentstyles\lsdstimax156\lsdlockeddef0}{\*\rsidtbl \rsid5846042\rsid9797564\rsid12391862\rsid13435031\rsid15999601}{\*\generator Microsoft Word 11.0.0000;}{\info{\title ENGLISH}{\operator Paul Harris}{\creatim\yr2013\mo4\dy4\hr15\min20}
+{\revtim\yr2013\mo4\dy4\hr15\min20}{\version2}{\edmins4}{\nofpages21}{\nofwords9568}{\nofchars39423}{\nofcharsws46110}{\vern24615}{\*\password 00000000}}{\*\xmlnstbl {\xmlns1 http://schemas.microsoft.com/office/word/2003/wordml}{\xmlns2 urn:schemas-micros
+oft-com:office:smarttags}}\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\gutter0\ltrsect 
+\widowctrl\ftnbj\aenddoc\donotembedsysfont0\donotembedlingdata1\grfdocevents0\validatexml0\showplaceholdtext0\ignoremixedcontent0\saveinvalidxml0\showxmlerrors0\horzdoc\dghspace120\dgvspace120\dghorigin1701\dgvorigin1984\dghshow0\dgvshow3
+\jcompress\viewkind4\viewscale100\rsidroot13435031 \fet0{\*\wgrffmtfilter 013f}\ilfomacatclnup0\ltrpar \sectd \ltrsect\linex0\sectdefaultcl\sftnbj {\*\pnseclvl1\pnucrm\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl2
+\pnucltr\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl3\pndec\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl4\pnlcltr\pnstart1\pnindent720\pnhang {\pntxta )}}{\*\pnseclvl5\pndec\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl6
+\pnlcltr\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl7\pnlcrm\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl8\pnlcltr\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl9\pnlcrm\pnstart1\pnindent720\pnhang 
+{\pntxtb (}{\pntxta )}}\pard\plain \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 \fs24\lang2057\langfe2057\cgrid\langnp2057\langfenp2057 {\rtlch\fcs1 \ab\af1\afs20 \ltrch\fcs0 
+\b\f1\fs20\insrsid13435031 ENGLISH}{\rtlch\fcs1 \af1\afs20 \ltrch\fcs0 \f1\fs20\insrsid13435031 
+\par }\pard \ltrpar\qc \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af1\afs20 \ltrch\fcs0 \b\f1\fs20\insrsid13435031 Stronghold Crusader HD \endash  Readme}{\rtlch\fcs1 \af1\afs20 \ltrch\fcs0 \f1\fs20\insrsid13435031 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1\afs20 \ltrch\fcs0 \f1\fs20\insrsid13435031 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0\pararsid9797564 {\rtlch\fcs1 \af1\afs20 \ltrch\fcs0 \f1\fs20\insrsid9797564\charrsid9797564 
+Welcome to the new edition of Stronghold Crusader HD! The HD editions now support widescreen resolutions up to 2560 x 1600 allowing you to enjoy the games like you've never seen them before and take in all the stunning detail.
+\par 
+\par We have also included some bonus maps for you to play around with and enjoy, some created by ourselves and some by members of our outstanding and dedicated fan communities.
+\par 
+\par We hope you enjoy playing the HD editions and as always, thank you for your support.
+\par 
+\par Firefly Studios
+\par 
+\par 
+\par }{\rtlch\fcs1 \af1\afs20 \ltrch\fcs0 \b\f1\fs20\insrsid9797564\charrsid9797564 Old savegames and settings
+\par }{\rtlch\fcs1 \af1\afs20 \ltrch\fcs0 \f1\fs20\insrsid9797564\charrsid9797564 
+\par Stronghold Crusader HD stores user maps, saves and settings in the Documents\\Stronghold Crusader folder.  If you have upgraded to Stronghold Crusader HD from an old version of Stronghold Crusader you will n
+eed to copy the maps, saves and settings from the Program Files\\Firefly Studios\\Stronghold Crusader folder (default location) to the Documents\\Stronghold Crusader folder.
+\par 
+\par Savegames (.sav files)
+\par 
+\par Old Location: Program Files\\Firefly Studios\\Stronghold Crusader\\saves
+\par New Location: Documents\\Stronghold Crusader\\saves
+\par 
+\par Maps (custom .map files)
+\par 
+\par Old Location: Program Files\\Firefly Studios\\Stronghold Crusader\\maps
+\par New Location: Documents\\Stronghold Crusader\\maps
+\par 
+\par Settings (crusader.cfg)
+\par 
+\par Old Location: Program Files\\Firefly Studios\\Stronghold Crusader
+\par New Location: Documents\\Stronghold Crusader
+\par 
+\par Skirmish Trail (skmasters.dat)
+\par 
+\par Old Location: Program Files\\Firefly Studios\\Stronghold Crusader
+\par New Location: Documents\\Stronghold Crusader
+\par 
+\par NOTE: If you are using 64 bit Windows the default installation location is Program Files (x86)\\Firefly Studios\\Stronghold Crusader}{\rtlch\fcs1 \af1\afs20 \ltrch\fcs0 \f1\fs20\insrsid13435031\charrsid9797564 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1\afs20 \ltrch\fcs0 \f1\fs20\insrsid13435031 
+\par 
+\par }{\rtlch\fcs1 \af1\afs20 \ltrch\fcs0 \f1\fs20\insrsid9797564 
+\par }{\rtlch\fcs1 \af1\afs20 \ltrch\fcs0 \f1\fs20\insrsid13435031     * Section 1 - Useful Web Addresses
+\par     * Section 2 - Keyboard Commands
+\par     * Section 3 \endash  Mini-map Icons
+\par     * Section 4 \endash  Extra Features or Changes in the Game
+\par     * Section 5 - Setting Up Your Identity
+\par     * Section 6 \endash  Multiplayer Help
+\par     * Section 7 \endash  GameSpy Arcade & Windows {\*\xmlopen\xmlns2{\factoidname place}}Vista{\*\xmlclose}
+\par 
+\par 
+\par }{\rtlch\fcs1 \ab\af1\afs20 \ltrch\fcs0 \b\f1\fs20\insrsid13435031 Section 1 - Useful Web Addresses}{\rtlch\fcs1 \af1\afs20 \ltrch\fcs0 \f1\fs20\insrsid13435031 
+\par 
+\par http://www.fireflyworlds.com \tab \tab Firefly Studios
+\par \tab 
+\par http://stronghold.heavengames.com \tab Heavengames Fansite
+\par \tab 
+\par http://www.stronghold-knights.com \tab Stronghold Knights Fansite
+\par  
+\par 
+\par }{\rtlch\fcs1 \ab\af1\afs20 \ltrch\fcs0 \b\f1\fs20\insrsid13435031 Section 2 - Keyboard Commands}{\rtlch\fcs1 \af1\afs20 \ltrch\fcs0 \f1\fs20\insrsid13435031 
+\par 
+\par Bookmarking Locations - CTRL + ALT + 0 to 9:  Pressing CTRL & ALT & 0 to 9 creates a bookmark of the current location on the map. Press ALT and the appropriate number to return to this location.
+\par 
+\par Select Units of Same Type - Double-click on a troop to select all units of the same type visible on screen.
+\par 
+\par Cycle through Bookmarks: - Mouse Wheel down.
+\par 
+\par Troop Assembly Points (Barracks & Mercenary Post) \endash  1 to 7.  You can create assembly points for each troop type in the barracks panel & mercenary post. Open the 
+barracks (B) then press 1 - 7 and you will be able to place a flag. The troop you create from the building will walk to the flag.  You can set assembly points for other building types such as the engineer\rquote s guild, tunnelers guild and cathedral.
+
+\par 
+\par Speeding Up The Credits \endash  Cursor Down, SHIFT & Cursor Down.
+\par 
+\par 
+\par }{\rtlch\fcs1 \ab\af1\afs20 \ltrch\fcs0 \b\f1\fs20\insrsid13435031 Section 3 - Mini-map Icons}{\rtlch\fcs1 \af1\afs20 \ltrch\fcs0 \f1\fs20\insrsid13435031 
+\par 
+\par (Displayed on the edge of the mini-map)
+\par 
+\par Circle \endash  The Keep is enclosed.
+\par 
+\par Exclamation mark (!) \endash  An event is occurring.  You can click on the \lquote !\rquote  to go to the location the event is happening.
+\par 
+\par Shield \endash  This shows the identity of the person who is speaking to you.
+\par 
+\par 
+\par }{\rtlch\fcs1 \ab\af1\afs20 \ltrch\fcs0 \b\f1\fs20\insrsid13435031 Section 4 - Extra Features or Changes in the Game}{\rtlch\fcs1 \af1\afs20 \ltrch\fcs0 \f1\fs20\insrsid13435031 
+\par 
+\par The assassins are now invisible to your enemies and can only be seen when they have been spotted by the enemy\rquote s troops.  An \lquote !\rquote  will appear above the assassins heads to show you they have been seen.
+\par 
+\par When playing a multiplayer game the host will be shown with a star next to their name.
+\par 
+\par You can trade gold and goods with your allies.  To do this, go to the Allies screen (click on the \lquote Talk to Allies\rquote  button) then into the \lquote Send Goods\rquote  or \lquote Request Goods\rquote  section.
+\par 
+\par Within the \lquote Send Goods\rquote  or \lquote Request Goods\rquote  screen, click on a good type (i.e.
+ wood) then click on the amount buttons along the bottom to specify the quantity you wish to send or receive.  You can clear this amount, by pressing the thumbs down icon.
+\par 
+\par The sound options include an additional option, which is Genie speech.  This will turn off general speech in the game, such as the \lquote greatest lord\rquote  speech.  This option will also turn off the \lquote game paused\rquote  and \lquote 
+game running\rquote  speech.
+\par 
+\par The multiplayer host screen includes some extra play options.  These are:
+\par \lquote No cow throwing\rquote  \endash  Cows cannot be launched from trebuchets or catapults.
+\par \lquote No dogs\rquote  \endash  Caged war dogs cannot be used.
+\par \lquote No rush\rquote  \endash  This option allows for a timed amount of peacetime before any players can attack each other or build troops.
+\par 
+\par With the custom scenario editor you can create \lquote Castle Builder\rquote , \lquote Crusader\rquote  and \lquote Custom Scenario\rquote 
+ maps.  Custom scenario maps allow you to create either an economic or invasion map type with their own set of events.
+\par 
+\par Skirmish masters screen \endash  This screen lists the maps you have played in either a Crusade
+r custom game or the Crusader trail. You can sort the names by score, name, amount of time played or date.  You can also click on the map name and view further information about it.   Right clicking on the map name allows you to delete it.  The scores are
+ saved out to the \lquote skmasters.dat\rquote  file.  You can have up to 250 games displayed on this screen.
+\par 
+\par Lord Strengths \endash  Different computer Lords have different strengths.  This is shown by the colored dots above the Lords\rquote  heads.  The blue dots are shown for a st
+ronger opponent and the yellow dots are displayed for a weaker one.  They can have as many as five dots over their heads.  A player\rquote s Lord has an average strength so no dots are displayed.
+\par 
+\par 
+\par }{\rtlch\fcs1 \ab\af1\afs20 \ltrch\fcs0 \b\f1\fs20\insrsid13435031 Section 5 - Setting Up Your Identity}{\rtlch\fcs1 \af1\afs20 \ltrch\fcs0 \f1\fs20\insrsid13435031 
+\par 
+\par You can choose which type of Lord you wish to play within the game.  You can choose from either a Crusader Lord or Arabic Lord.  This does not affect which units you can build, but the Lord type will affect your starting troops.
+\par 
+\par You can also choose the portrait you wish to have shown when you hover  the mouse over sections of your castle (this picture will also be shown to other users in multiplayer mode).  You can create your own portrait, if you load the \lquote faces.bmp
+\rquote  file (located in the root of the game folder) into a paint package.  You will notice we have left two free slots for you to add own portraits. The size for  each portrait should be 64 x 64 pixels.
+\par 
+\par 
+\par }{\rtlch\fcs1 \ab\af1\afs20 \ltrch\fcs0 \b\f1\fs20\insrsid13435031 Section 6 - Multiplayer Help}{\rtlch\fcs1 \af1\afs20 \ltrch\fcs0 \f1\fs20\insrsid13435031 
+\par 
+\par Stronghold Crusader Multiplayer
+\par 
+\par If your computer is connected to a router/firewall you will need to forward the following Microsoft DirectPlay Firewall Ports to your computer in order to play Stronghold Crusader multiplayer.
+\par 
+\par \tab \tab \tab Outbound\tab Inbound
+\par Initial TCP Connection\tab 47624\tab \tab 47624
+\par Subsequent TCP\tab 2300-2400\tab 2300-2400
+\par Subsequent UDP\tab 2300-2400\tab 2300-2400
+\par 
+\par 
+\par If you require help configuring your router please visit portforward.com which has an excellent range of guides for over 1000 routers.
+\par 
+\par http://www.portforward.com/english/routers/port_forwarding/routerindex.htm
+\par 
+\par Windows Firewall
+\par 
+\par 1.    Open Control Panel > Windows Firewall
+\par 2.    Select the Exceptions tab
+\par 3.    If Stronghold Crusader is not in the list click Add Program.
+\par 4.    Select Stronghold Crusader and click OK
+\par 5.    Click OK to close the Window Firewall panel
+\par 
+\par 
+\par }{\rtlch\fcs1 \ab\af1\afs20 \ltrch\fcs0 \b\f1\fs20\insrsid13435031 Section 7 \endash  GameSpy Arcade & Windows {\*\xmlopen\xmlns2{\factoidname place}}Vista}{\rtlch\fcs1 \af1\afs20 \ltrch\fcs0 \f1\fs20\insrsid13435031 {\*\xmlclose}
+\par 
+\par To play multiplayer via Gamespy Arcade on Windows Vista, Windows Vista Service Pack 1 must be installed.
+\par 
+\par 
+\par 
+\par 
+\par }{\rtlch\fcs1 \ab\af1\afs20 \ltrch\fcs0 \b\f1\fs20\insrsid13435031 FRAN\'c7AIS}{\rtlch\fcs1 \af1\afs20 \ltrch\fcs0 \f1\fs20\insrsid13435031 
+\par }\pard \ltrpar\qc \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af1\afs20 \ltrch\fcs0 \b\f1\fs20\insrsid13435031 Fichier LisezMoi de Stronghold Crusader}{\rtlch\fcs1 \ab\af1\afs20 \ltrch\fcs0 \b\f1\fs20\insrsid9797564  HD}{
+\rtlch\fcs1 \af1\afs20 \ltrch\fcs0 \f1\fs20\insrsid13435031 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1\afs20 \ltrch\fcs0 \f1\fs20\insrsid13435031 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0\pararsid9797564 {\rtlch\fcs1 \af1\afs20 \ltrch\fcs0 \f1\fs20\insrsid9797564\charrsid9797564 Bienvenue dans la nouvelle \'e9dition de Stronghold Crusader HD\~! Les \'e9
+ditions HD supportent maintenant les r\'e9solutions pour grands \'e9crans jusqu'\'e0 2560 x\~1600 vous permettant de profiter de jeux comme vous ne les avez jamais vus avant et d'en appr\'e9cier tous les d\'e9tails renversants.
+\par 
+\par Nous avons \'e9galement inclus des cartes en bonus pour que vous puissiez vous amuser et profiter, nous en avons cr\'e9\'e9 certaines et d'autres ont \'e9t\'e9 faites par les membres de nos incroyables communaut\'e9s de d\'e9vou\'e9s fans. 
+\par 
+\par Nous esp\'e9rons que vous appr\'e9cierez les \'e9ditions HD et comme toujours, nous vous remercions de votre soutien.
+\par 
+\par Firefly Studios
+\par }{\rtlch\fcs1 \af1\afs20 \ltrch\fcs0 \f1\fs20\insrsid9797564 
+\par }{\rtlch\fcs1 \af1\afs20 \ltrch\fcs0 \f1\fs20\insrsid9797564\charrsid9797564 
+\par }{\rtlch\fcs1 \af1\afs20 \ltrch\fcs0 \b\f1\fs20\insrsid9797564\charrsid9797564 Sauvegardes et r\'e9glages pr\'e9c\'e9dents
+\par }{\rtlch\fcs1 \af1\afs20 \ltrch\fcs0 \f1\fs20\insrsid9797564\charrsid9797564 
+\par Stronghold Crusader HD m\'e9morise les cartes, sauvegardes et r\'e9glages dans le fichier Documents\\Stronghold Crusader. Si vous \'eates pass\'e9 d'une ancienne version de Stronghold Crusader \'e0
+ Stronghold Crusader HD, vous aurez besoin de copier les cartes, les sauvegardes et les r\'e9glages qui se trouvent dans le fichier Program Files\\Firefly Studios\\Stronghold Crusader (emplacement par d\'e9faut) au fichier Documents\\
+Stronghold Crusader.  
+\par 
+\par Sauvegardes (fichiers .sav)
+\par 
+\par Ancien emplacement\~: Program Files\\Firefly Studios\\Stronghold Crusader\\saves
+\par Nouvel emplacement\~: Documents\\Stronghold Crusader\\Saves
+\par 
+\par Cartes (fichiers .map personnalis\'e9s)
+\par 
+\par Ancien emplacement\~: Program Files\\Firefly Studios\\Stronghold Crusader\\maps
+\par Nouvel emplacement\~: Documents\\Stronghold Crusader\\maps
+\par 
+\par R\'e9glages (crusader.cgf)
+\par 
+\par Ancien emplacement\~: Program Files\\Firefly Studios\\Stronghold Crusader
+\par Nouvel emplacement\~: Documents\\Stronghold Crusader
+\par 
+\par Piste d'escarmouche (skmasters.dat)
+\par 
+\par Ancien emplacement\~: Program Files\\Firefly Studios\\Stronghold Crusader
+\par Nouvel emplacement\~: Documents\\Stronghold Crusader
+\par 
+\par REMARQUE\~: si vous utilisez Windows 64 bit, l'emplacement de l'installation par d\'e9faut est Program Files (x86)\\Firefly Studios\\Stronghold Crusader
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1\afs20 \ltrch\fcs0 \f1\fs20\insrsid9797564 
+\par 
+\par 
+\par }{\rtlch\fcs1 \af1\afs20 \ltrch\fcs0 \f1\fs20\insrsid13435031     * Chapitre 1 - Adresses Internet Utiles
+\par     * Chapitre 2 - Commandes Clavier
+\par     * Chapitre 3 - Icones de la Mini-carte
+\par     * Chapitre 4 - Caract\'e9ristiques Sp\'e9ciales ou Changements Dans le Jeu
+\par     * Chapitre 5 - Cr\'e9ation de Votre Identit\'e9
+\par     * Chapitre 6 - Aide Multijoueur
+\par     * Chapitre 7 - Gamespy Arcade & Windows {\*\xmlopen\xmlns2{\factoidname place}}Vista{\*\xmlclose}
+\par 
+\par 
+\par }{\rtlch\fcs1 \ab\af1\afs20 \ltrch\fcs0 \b\f1\fs20\insrsid13435031 Chapitre 1 - Adresses Internet Utiles}{\rtlch\fcs1 \af1\afs20 \ltrch\fcs0 \f1\fs20\insrsid13435031 
+\par 
+\par http://www.fireflyworlds.com \tab \tab Firefly Studios
+\par \tab 
+\par http://stronghold.heavengames.com \tab Site de fans de Stronghold Heavengames
+\par \tab 
+\par http://www.stronghold-knights.com \tab Site de fans de Stronghold Knights
+\par 
+\par 
+\par }{\rtlch\fcs1 \ab\af1\afs20 \ltrch\fcs0 \b\f1\fs20\insrsid13435031 Chapitre 2 - Commandes Clavier}{\rtlch\fcs1 \af1\afs20 \ltrch\fcs0 \f1\fs20\insrsid13435031 
+\par 
+\par Sauvegarder des lieux dans les favoris : CTRL + ALT + 0 \'e0 9. En appuyant sur CTRL + ALT + une touche de 0 \'e0 9, vous sauvegardez l'endroit de la carte o\'f9 vous \'ea
+tes actuellement, dans les favoris. Appuyez sur ALT + le nombre correspondant pour retourner dans ce lieu.
+\par 
+\par S\'e9lectionner des unit\'e9s du m\'eame type : double-cliquez sur une unit\'e9 pour s\'e9lectionner toutes les unit\'e9s du m\'eame type visibles \'e0 l'\'e9cran.
+\par 
+\par Naviguer dans les favoris : molette de la souris vers le bas.
+\par 
+\par Points de rassemblement des troupes (caserne et poste de mercenaires) : touches 1 \'e0 7. Vous pouvez cr\'e9er des points de rassemblement pour chaque type d'unit\'e9
+s dans le panneau caserne ou le poste de mercenaires. Ouvrez la caserne (B), puis appuyez sur l'une des touches de 1 \'e0 7. Vous pouvez alors placer un drapeau. L'unit\'e9 que vous cr\'e9ez dans le b\'e2timent se d\'e9
+place jusqu'au drapeau. Vous pouvez placer des points de rassemblement pour d'autres types de b\'e2timents, tels que les postes d'ing\'e9nieurs, les guildes de tunneliers et les cath\'e9drales.
+\par 
+\par Augmenter la vitesse des cr\'e9dits : fl\'e8che bas, MAJ et fl\'e8che bas.
+\par 
+\par 
+\par }{\rtlch\fcs1 \ab\af1\afs20 \ltrch\fcs0 \b\f1\fs20\insrsid13435031 Chapitre 3 - Icones de la Mini-carte}{\rtlch\fcs1 \af1\afs20 \ltrch\fcs0 \f1\fs20\insrsid13435031 
+\par 
+\par (Affich\'e9s au bord de la mini-carte)
+\par 
+\par Cercle : le donjon est entour\'e9.
+\par 
+\par Point d'exclamation (!) : signifie qu'un \'e9v\'e9nement a lieu. Vous pouvez cliquer sur le \lquote !\rquote  pour vous rendre \'e0 l'endroit o\'f9 se d\'e9roule l'\'e9v\'e9nement.
+\par 
+\par Bouclier : indique l'identit\'e9 de la personne qui vous parle.
+\par 
+\par 
+\par }{\rtlch\fcs1 \ab\af1\afs20 \ltrch\fcs0 \b\f1\fs20\insrsid13435031 Chapitre 4 - Caract\'e9ristiques Sp\'e9ciales ou Changements Dans le Jeu}{\rtlch\fcs1 \af1\afs20 \ltrch\fcs0 \f1\fs20\insrsid13435031 
+\par 
+\par Les assassins sont d\'e9sormais invisibles aux yeux de vos ennemis et ne peuvent \'eatre vus que lorsqu'ils ont \'e9t\'e9 rep\'e9r\'e9s par les unit\'e9s ennemies.  Un \lquote !\rquote  s'affiche au-dessus de la t\'ea
+te des assassins pour vous indiquer qu'ils se sont fait rep\'e9rer.
+\par 
+\par En multijoueur, une \'e9toile s'affiche \'e0 cot\'e9 du nom de l'h\'f4te.
+\par 
+\par Vous pouvez vendre de l'or \'e0 vos alli\'e9s. Pour cela, rendez-vous sur l'\'e9cran des alli\'e9s, puis dans la fen\'eatre Envoyer ou Demander des biens (cliquez sur le bouton Parler aux alli\'e9s).
+\par 
+\par Sur l'\'e9cran Envoyer ou Demander des biens, cliquez sur un type de bien (bois, par exemple), puis sur les boutons Montant, en bas de l'\'e9cran, pour pr\'e9ciser la quantit\'e9 que vous d\'e9sirez envoyer ou recevoir. Vous pouvez r\'e9duire le montant 
+\'e0 z\'e9ro en cliquant sur l'icone repr\'e9sentant un pouce vers le bas.
+\par 
+\par Une option sonore suppl\'e9mentaire appel\'e9e G\'e9nie est disponible. Cette derni\'e8re permet de d\'e9sactiver les dialogues du jeu, comme ceux du grand seigneur par exemple. Cette option d\'e9sactive \'e9
+galement les dialogues lorsque le jeu est en pause ou qu'il tourne.
+\par 
+\par L'\'e9cran de l'h\'f4te multijoueur contient des options de jeu suppl\'e9mentaires qui sont les suivantes :
+\par \lquote Pas de lancer de vaches\rquote  : vous ne pouvez pas lancer de vaches avec les tr\'e9buchets ou les catapultes.
+\par \lquote Pas de chiens\rquote  : les chiens ne peuvent \'eatre utilis\'e9s.
+\par \lquote Pas de rush\rquote  : cette option laisse une certaine p\'e9riode de calme avant que les joueurs ne s'attaquent les uns aux autres ou ne construisent d'unit\'e9s.
+\par 
+\par Dans l'\'e9diteur de sc\'e9nario personnalis\'e9, vous pouvez cr\'e9er des cartes constructeurs de ch\'e2teau, crois\'e9 ou sc\'e9nario personnalis\'e9. Les cartes de sc\'e9nario personnalis\'e9 vous permettent de cr\'e9er un type de carte \'e9
+conomique ou d'invasion avec leurs propres \'e9v\'e9nements.
+\par 
+\par Ecran du ma\'eetre des escarmouches : cet \'e9cran r\'e9pertorie les cartes que vous avez jou\'e9es soit lors d'une partie personnalis\'e9e, soit lors d'une s\'e9rie d'escarmouches. Vous pouvez ranger le
+s noms par score, par nom, par temps de jeu ou par date. Vous pouvez \'e9galement cliquer sur le nom de la carte et ainsi consulter de plus amples informations sur cette derni\'e8
+re. Lorsque vous cliquez avec le bouton droit de la souris sur le nom d'une carte, vous pouvez l'effacer. Les scores sont sauvegard\'e9s dans le fichier skmasters.dat. Jusqu'\'e0 250 parties peuvent \'eatre affich\'e9es \'e0 l'\'e9cran.
+\par 
+\par Puissance seigneur : les diff\'e9rents seigneurs de l'ordinateur poss\'e8dent des puissances diff\'e9rentes. Ceci est indiqu\'e9 par des points de couleur au-dessus de la t\'eate du seigneur. Les points bleus sont affich\'e9s pour un ennemi plus 
+{\*\xmlopen\xmlns2{\factoidname PlaceType}}{\*\xmlopen\xmlns2{\factoidname place}}{\*\xmlopen\xmlns2{\factoidname PlaceType}}fort{\*\xmlclose} {\*\xmlopen\xmlns2{\factoidname PlaceName}}et{\*\xmlclose}{\*\xmlclose}{\*\xmlclose}
+ les points jaunes pour les plus faibles. Ils peuvent avoir jusqu'\'e0 5 points au-dessus de leur t\'eate. Le seigneur d'un joueur poss\'e8de une puissance moyenne lorsqu'aucun point n'est affich\'e9.
+\par 
+\par 
+\par }{\rtlch\fcs1 \ab\af1\afs20 \ltrch\fcs0 \b\f1\fs20\insrsid13435031 Chapitre 5 - Cr\'e9ation de Votre Identit\'e9}{\rtlch\fcs1 \af1\afs20 \ltrch\fcs0 \f1\fs20\insrsid13435031 
+\par 
+\par Vous pouvez choisir le type de seigneur que vous incarnez dans le jeu. Vous avez le choix entre Seigneur Crois\'e9 ou Seigneur Arabe. Ceci n'influe pas sur le type d'unit\'e9s que vous pouvez construire, mais uniquement sur vos unit\'e9s de d\'e9part.
+
+\par 
+\par Vous pouvez \'e9galement choisir le portrait qui s'affiche lorsque vous d\'e9placez la souris sur des sections du ch\'e2teau (cette image s'affiche \'e9galement pour les autres joueurs lors des parties multijoueur). Vous pouvez cr\'e9
+er votre propre portrait, si vous chargez le fichier faces.bmp (situ\'e9 \'e0 la {\*\xmlopen\xmlns2{\factoidname City}}{\*\xmlopen\xmlns2{\factoidname place}}racine{\*\xmlclose}{\*\xmlclose}
+ du dossier du jeu) dans un logiciel de traitement des images. Vous remarquerez que nous avons laiss\'e9 deux emplacements libres pour votre propre portrait. La taille de ce portrait doit \'eatre de 64 x 64 pixels.
+\par 
+\par 
+\par }{\rtlch\fcs1 \ab\af1\afs20 \ltrch\fcs0 \b\f1\fs20\insrsid13435031 Chapitre 6 - Aide Multijoueur}{\rtlch\fcs1 \af1\afs20 \ltrch\fcs0 \f1\fs20\insrsid13435031 
+\par 
+\par Multijoueur Stronghold Crusader
+\par 
+\par Si votre ordinateur est connect\'e9 \'e0 un routeur ou un pare-feu, vous devez ouvrir les ports du pare-feu Microsoft DirectPlay suivants afin de pouvoir jouer \'e0 Stronghold Crusader en mode Multijoueur.
+\par  
+\par \tab \tab \tab Sortant \tab \tab Entrant
+\par Connexion TCP initiale\tab 47624 \tab \tab 47624
+\par TCP suivant\tab \tab 2300-2400\tab 2300-2400
+\par UDP suivant\tab \tab 2300-2400\tab 2300-2400
+\par 
+\par Si vous avez besoin d'aide pour configurer votre routeur, veuillez vous rendre sur portforward.com qui dispose d'un grand choix de guides sur plus de 1000 routeurs diff\'e9rents.
+\par 
+\par http://www.portforward.com/english/routers/port_forwarding/routerindex.htm
+\par 
+\par Pare-feu Windows
+\par 
+\par 1.    Allez dans Panneau de configuration > Pare-feu Windows
+\par 2.    Cliquez sur l'onglet Exceptions
+\par 3.    Cliquez sur Ajouter un programme
+\par 4.    S\'e9lectionnez Stronghold Crusader puis cliquez sur OK
+\par 5.    Cliquez sur OK pour fermer la fen\'eatre Pare-feu Windows
+\par 
+\par 
+\par }{\rtlch\fcs1 \ab\af1\afs20 \ltrch\fcs0 \b\f1\fs20\insrsid13435031 Chapitre 7 - Gamespy Arcade & Windows {\*\xmlopen\xmlns2{\factoidname place}}Vista}{\rtlch\fcs1 \af1\afs20 \ltrch\fcs0 \f1\fs20\insrsid13435031 {\*\xmlclose}
+\par 
+\par Le Service Pack 1 Windows {\*\xmlopen\xmlns2{\factoidname place}}Vista{\*\xmlclose} est n\'e9cessaire si vous voulez jouer en Multijoueur via Gamespy Arcade.
+\par 
+\par 
+\par 
+\par 
+\par }{\rtlch\fcs1 \ab\af1\afs20 \ltrch\fcs0 \b\f1\fs20\insrsid13435031 DEUTSCH}{\rtlch\fcs1 \af1\afs20 \ltrch\fcs0 \f1\fs20\insrsid13435031 
+\par }\pard \ltrpar\qc \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af1\afs20 \ltrch\fcs0 \b\f1\fs20\insrsid13435031 Stronghold Crusader }{\rtlch\fcs1 \ab\af1\afs20 \ltrch\fcs0 \b\f1\fs20\insrsid9797564 HD }{\rtlch\fcs1 
+\ab\af1\afs20 \ltrch\fcs0 \b\f1\fs20\insrsid13435031 \endash  Readme}{\rtlch\fcs1 \af1\afs20 \ltrch\fcs0 \f1\fs20\insrsid13435031 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1\afs20 \ltrch\fcs0 \f1\fs20\insrsid13435031 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0\pararsid9797564 {\rtlch\fcs1 \af1\afs20 \ltrch\fcs0 \f1\fs20\insrsid9797564\charrsid9797564 Willkommen bei der neuen Edition von Stronghold Crusader HD! Die HD-Editionen unterst\'fc
+tzen jetzt Widescreen-Aufl\'f6sungen von bis zu 2560 x 1600, sodass du die Spiele wie noch nie zuvor mit unglaublichen Details genie\'dfen kannst.
+\par 
+\par Wir haben auch einige Bonuskarten hinzugef\'fcgt, mit denen du herumspielen und viel Spa\'df haben kannst. Manche davon haben wir selbst erstellt, manche stammen von Mitgliedern unserer unglaublichen Fan-Communitys.
+\par 
+\par Wir hoffen, du hast viel Spa\'df mit den HD-Editionen, und wie immer m\'f6chten wir uns ganz herzlich f\'fcr deine Unterst\'fctzung bedanken.
+\par 
+\par Firefly Studios
+\par 
+\par 
+\par }{\rtlch\fcs1 \af1\afs20 \ltrch\fcs0 \b\f1\fs20\insrsid9797564\charrsid9797564 Alte Spielst\'e4nde und Einstellungen
+\par }{\rtlch\fcs1 \af1\afs20 \ltrch\fcs0 \f1\fs20\insrsid9797564\charrsid9797564 
+\par Stronghold Crusader HD speichert Karten, Spielst\'e4nde und Einstellungen des Benutzers im Ordner Dokumente\\Stronghold Crusader.  Wenn du von einer \'e4lteren Version von Stronghold Crusader ein Upgrade auf Stronghold Crusader HD durchgef\'fc
+hrt hast, musst du die Karten, Spielst\'e4nde und Einstellungen aus dem Ordner Programme\\Firefly Studios\\Stronghold Crusader (Standard) in den Ordner Dokumente\\Stronghold Crusader kopieren.
+\par 
+\par Spielst\'e4nde (.sav-Dateien)
+\par 
+\par Alter Speicherort: Programme\\Firefly Studios\\Stronghold Crusader\\saves
+\par Neuer Speicherort: Dokumente\\Stronghold Crusader\\saves
+\par 
+\par Karten (individuelle .map-Dateien)
+\par 
+\par Alter Speicherort: Programme\\Firefly Studios\\Stronghold Crusader\\maps
+\par Neuer Speicherort: Dokumente\\Stronghold Crusader\\maps
+\par 
+\par Einstellungen (crusader.cfg)
+\par 
+\par Alter Speicherort: Programme\\Firefly Studios\\Stronghold Crusader
+\par Neuer Speicherort: Dokumente\\Stronghold Crusader
+\par 
+\par Skirmish Trail (skmasters.dat)
+\par 
+\par Alter Speicherort: Programme\\Firefly Studios\\Stronghold Crusader
+\par Neuer Speicherort: Dokumente\\Stronghold Crusader
+\par 
+\par HINWEIS: Wenn du eine 64-Bit-Version von Windows verwendest, ist das Spiel standardm\'e4\'dfig im Ordner Programme (x86)\\Firefly Studios\\Stronghold Crusader installiert
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1\afs20 \ltrch\fcs0 \f1\fs20\insrsid9797564 
+\par 
+\par 
+\par }{\rtlch\fcs1 \af1\afs20 \ltrch\fcs0 \f1\fs20\insrsid13435031     * Teil 1 \endash  N\'fctzliche Internetadressen
+\par     * Teil 2 \endash  Tastaturbefehle
+\par     * Teil 3 \endash  Symbole auf der Minikarte
+\par     * Teil 4 \endash  Neue oder ver\'e4nderte Spielelemente
+\par     * Teil 5 \endash  Wahl des F\'fcrsten
+\par     * Teil 6 \endash   Mehrspieler-Hilfe
+\par     * Teil 7 \endash  Gamespy Arcade & Windows {\*\xmlopen\xmlns2{\factoidname place}}Vista{\*\xmlclose}
+\par 
+\par 
+\par }{\rtlch\fcs1 \ab\af1\afs20 \ltrch\fcs0 \b\f1\fs20\insrsid13435031 Teil 1 \endash  N\'fctzliche Internetadressen}{\rtlch\fcs1 \af1\afs20 \ltrch\fcs0 \f1\fs20\insrsid13435031 
+\par 
+\par http://www.fireflyworlds.com\tab \tab Firefly Studios
+\par \tab 
+\par http://stronghold.heavengames.com\tab Heavengames Stronghold-Fansite
+\par \tab 
+\par http://www.stronghold-knights.com\tab Stronghold Knights-Fansite
+\par 
+\par 
+\par }{\rtlch\fcs1 \ab\af1\afs20 \ltrch\fcs0 \b\f1\fs20\insrsid13435031 Teil 2 \endash  Tastaturbefehle}{\rtlch\fcs1 \af1\afs20 \ltrch\fcs0 \f1\fs20\insrsid13435031 
+\par 
+\par Kartenpunkte festlegen -> STRG + ALT + 0 bis 9: Dr\'fccken Sie STRG & ALT sowie eine Ziffer von 0 bis 9, um sich einen bestimmten Punkt auf der Karte zu merken, an den Sie sp\'e4ter durch Dr\'fccken der ALT-Taste und der entsprechenden Ziffer zur\'fc
+ckkehren k\'f6nnen.
+\par 
+\par Einheiten desselben Typs ausw\'e4hlen -> Doppelklick auf Einheit: Wenn Sie auf eine Einheit doppelklicken, w\'e4hlen Sie alle auf dem Bildschirm sichtbaren Einheiten dieses Typs aus.
+\par 
+\par Durch Kartenpunkte schalten -> Mausrad abw\'e4rts: Hiermit schalten Sie durch die von Ihnen angelegten Kartenpunkte.
+\par 
+\par Truppensammelpunkte (Unterk\'fcnfte & S\'f6ldnerposten): Im Unterkunfts- und S\'f6ldnerpostenfenster k\'f6nnen Sie Sammelpunkte f\'fcr jeden Einheitentyp erstellen. \'d6ffnen Sie das Unterkunftsfenster (B) und dr\'fc
+cken Sie eine Ziffer von 1 bis 6. Daraufhin erscheint eine Flagge, die Sie platzieren k\'f6nnen, damit die Truppen sich dorthin begeben. Sie k\'f6nnen auch Sammelpunkte bei anderen Geb\'e4udearten wie der Baumeistergilde, der Tunnelbauergilde und der
+ Kathedrale erstellen.
+\par 
+\par Credits schneller abspielen \endash  Mit der Pfeiltaste abw\'e4rts oder der Umschalttaste zusammen mit der Pfeiltaste abw\'e4rts k\'f6nnen Sie die Credits schneller abspielen lassen.
+\par 
+\par 
+\par }{\rtlch\fcs1 \ab\af1\afs20 \ltrch\fcs0 \b\f1\fs20\insrsid13435031 Teil 3 \endash  Symbole auf der Minikarte}{\rtlch\fcs1 \af1\afs20 \ltrch\fcs0 \f1\fs20\insrsid13435031 
+\par 
+\par Folgende Symbole erscheinen am Rand der Minikarte:
+\par 
+\par Kreis \endash  Der Bergfried ist von W\'e4llen umgeben ("komplett").
+\par 
+\par Ausrufungszeichen (!) \endash  Es geschieht etwas! Klicken Sie auf das Ausrufungszeichen, um den Ort des Geschehens aufzusuchen.
+\par 
+\par Schild \endash  Zeigt, welche Person mit Ihnen spricht.
+\par 
+\par 
+\par }{\rtlch\fcs1 \ab\af1\afs20 \ltrch\fcs0 \b\f1\fs20\insrsid13435031 Teil 4 \endash  Neue oder ver\'e4nderte Spielelemente}{\rtlch\fcs1 \af1\afs20 \ltrch\fcs0 \f1\fs20\insrsid13435031 
+\par 
+\par In Stronghold: Crusader werden Sie es jetzt auch mit Meuchelm\'f6rdern zu tun haben. Diese sind so lange unsichtbar, bis sie von einer feindlichen Einheit entdeckt werden. Danach sind sie durch ein "!" gekennzeichnet.
+\par 
+\par In Mehrspielerpartien wird der Host mit einem Stern neben dem Namen gekennzeichnet.
+\par 
+\par Sie k\'f6nnen mit Ihren Verb\'fcndeten G\'fcter austauschen. Gehen Sie dazu in den Verb\'fcndeten-Bildschirm (indem Sie das Horn-Symbol anklicken) und w\'e4hlen Sie dann die Option "G\'fcter anfordern" oder "G\'fcter senden".
+\par 
+\par Klicken Sie im nun erscheinenden Fenster auf die G\'fcterart (z.B. Holz) und legen Sie die Menge fest, die Sie versenden oder erhalten wollen. Sie k\'f6nnen die Menge wieder l\'f6schen, indem Sie auf den nach unten gerichteten Daumen klicken.
+\par 
+\par In den Soundeinstellungen gibt es jetzt eine zus\'e4tzliche Option namens "Geisterkommentare". Hiermit k\'f6nnen Sie die Geisterstimme im Kreuzzugmodus (allgemeine Kommentare wie "Ihr seid der gr\'f6\'dfte Herrscher." e
+tc.) ein- und ausschalten sowie die Meldungen zur Spielpausierung des Informanten.
+\par 
+\par Auch im Mehrspieler-Host-Bildschirm gibt es einige neue Optionen:
+\par "Kein Rinderwerfen" \endash  K\'fche k\'f6nnen nicht mit Triboken und Katapulten auf den Feind geworfen werden.
+\par "Keine Hunde" \endash  Sie k\'f6nnen keine Kampfhunde aus den Kampfhundezwingern einsetzen.
+\par "Keine Eile" \endash  Hiermit legen Sie eine bestimmte Zeit der Waffenruhe fest, bevor Spieler einander angreifen oder Truppen ausbilden k\'f6nnen.
+\par 
+\par Mit dem Szenario-Editor k\'f6nnen Sie eigene Szenario-Karten sowie Burgenbau- und Kreuzzugskarten erstellen. Eigene Szenario-Karten k\'f6nnen sowohl f\'fcr Wirtschafts- als auch f\'fc
+r Invasionsmissionen genutzt werden und von Ihnen festgelegte Ereignisse enthalten.
+\par 
+\par Gefechtsmeister-Bildschirm \endash  Hier sehen Sie eine Liste, der Karten, die Sie bereits im Kreuzzugsmarsch oder in einem eigenen Kreuzzugspiel bew\'e4ltigt haben. Sie k\'f6
+nnen die Liste nach dem Punktestand, Namen, der Spielzeit oder dem Datum sortieren. Wenn Sie einen Kartennamen anklicken, erhalten Sie n\'e4here Informationen zu der Karte. Um ein Karte zu l\'f6
+schen, klicken Sie mit der rechten Maustaste darauf. Ihre Punkte werden in der Datei skmasters.dat gespeichert. Die Liste bietet Platz f\'fcr 250 Spiele.
+\par 
+\par St\'e4rken der Burgherren \endash  Die verschiedenen Computerf\'fcrsten sind unterschiedlich stark, was durch die farbigen Punkte \'fcber ihren K\'f6
+pfen verdeutlicht wird. Blaue Punkte weisen auf einen starken Gegner hin, gelbe Punkte auf einen schwachen. Die Skala reicht bis zu f\'fcnf Punkten. Der Burgherr des Spielers hat immer eine durchschnittliche St\'e4rke, daher werden f\'fc
+r ihn keine Punkte angezeigt.
+\par 
+\par 
+\par }{\rtlch\fcs1 \ab\af1\afs20 \ltrch\fcs0 \b\f1\fs20\insrsid13435031 Teil 5 \endash  Wahl des F\'fcrsten}{\rtlch\fcs1 \af1\afs20 \ltrch\fcs0 \f1\fs20\insrsid13435031 
+\par 
+\par In Stronghold: Crusader k\'f6nnen Sie w\'e4hlen, ob Sie lieber einen Kreuzritterf\'fcrsten oder einen arabischen F\'fcrsten spielen wollen. Diese Wahl hat keinerlei Auswirkung darauf, welche Einheiten Sie ausbilden k\'f6
+nnen, allerdings beeinflusst sie, mit welchen Einheiten Sie das Spiel beginnen.
+\par 
+\par Sie k\'f6nnen auch w\'e4hlen, welches Portrait angezeigt werden soll, wenn Sie mit dem Mauszeiger \'fcber Ihre Burg fahren (dieses Bild werden auch Ihre Mitspieler im Mehrspieler-Modus sehen). Sie k\'f6
+nnen auch selbst ein Portrait erstellen, indem Sie die Datei 'faces.bmp' (aus dem Hauptverzeichnis) in ein Bildbearbeitungsprogramm laden. Sie werden feststellen, dass wir zwei Pl\'e4tze f\'fcr Ihr Portrait freigelassen haben. Das Portrait muss eine Gr
+\'f6\'dfe von 64 x 64 Pixel haben.
+\par 
+\par 
+\par }{\rtlch\fcs1 \ab\af1\afs20 \ltrch\fcs0 \b\f1\fs20\insrsid13435031 Teil 6 \endash   Mehrspieler-Hilfe}{\rtlch\fcs1 \af1\afs20 \ltrch\fcs0 \f1\fs20\insrsid13435031 
+\par 
+\par Stronghold Crusader Mehrspieler
+\par 
+\par Wenn Ihr Computer an einen Router mit Firewall angeschlossen ist, m\'fcssen Sie die Weiterleitungen f\'fcr die folgenden Microsoft DirectPlay Firewall-Ports auf ihrem Computer einrichten, um Stronghold Crusader im Mehrspieler-Modus spielen zu k\'f6nnen.
+
+\par  
+\par \tab \tab \tab Ausgehend\tab Eingehend
+\par Erste {\*\xmlopen\xmlns2{\factoidname City}}{\*\xmlopen\xmlns2{\factoidname place}}{\*\xmlopen\xmlns2{\factoidname City}}TCP-Verbindung{\*\xmlclose}\tab {\*\xmlopen\xmlns2{\factoidname PostalCode}}47624{\*\xmlclose}{\*\xmlclose}{\*\xmlclose}\tab \tab 
+47624
+\par Folgende TCP\tab \tab 2300-2400\tab 2300-2400
+\par Folgende UDP\tab \tab 2300-2400\tab 2300-2400
+\par 
+\par Wenn Sie bei der Konfiguration Ihres Routers Hilfe ben\'f6tigen, besuchen Sie bitte die Website portforward.com. Sie verf\'fcgt \'fcber Anleitungen f\'fcr \'fcber 1000 Router.
+\par 
+\par http://www.portforward.com/english/routers/port_forwarding/routerindex.htm
+\par 
+\par Windows-Firewall
+\par 
+\par 1.    Systemsteuerung \'f6ffnen > Windows-Firewall
+\par 2.    Gehen Sie auf die Registerkarte Ausnahmen
+\par 3.    Klicken Sie auf Programm hinzuf\'fcgen.
+\par 4.    W\'e4hlen Sie Select Stronghold Crusader und klicken Sie auf OK.
+\par 5.    Klicken Sie auf OK, um das Bedienfeld Windows-Firewall zu schlie\'dfen.
+\par 
+\par 
+\par }{\rtlch\fcs1 \ab\af1\afs20 \ltrch\fcs0 \b\f1\fs20\insrsid13435031 Teil 7 \endash  Gamespy Arcade & Windows {\*\xmlopen\xmlns2{\factoidname place}}Vista}{\rtlch\fcs1 \af1\afs20 \ltrch\fcs0 \f1\fs20\insrsid13435031 {\*\xmlclose}
+\par 
+\par Sie ben\'f6tigen das Windows Vista Service Pack 1, wenn Sie ein Mehrspieler-Spiel \'fcber Gamespy Arcade spielen m\'f6chten.
+\par 
+\par 
+\par }{\rtlch\fcs1 \ab\af1\afs20 \ltrch\fcs0 \b\f1\fs20\insrsid13435031 
+\par ITALIANO}{\rtlch\fcs1 \af1\afs20 \ltrch\fcs0 \f1\fs20\insrsid13435031 
+\par }\pard \ltrpar\qc \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af1\afs20 \ltrch\fcs0 \b\f1\fs20\insrsid13435031 Stronghold Crusader}{\rtlch\fcs1 \ab\af1\afs20 \ltrch\fcs0 \b\f1\fs20\insrsid9797564  HD}{\rtlch\fcs1 
+\ab\af1\afs20 \ltrch\fcs0 \b\f1\fs20\insrsid13435031  \endash  File Readme}{\rtlch\fcs1 \af1\afs20 \ltrch\fcs0 \f1\fs20\insrsid13435031 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1\afs20 \ltrch\fcs0 \f1\fs20\insrsid13435031 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0\pararsid9797564 {\rtlch\fcs1 \af1\afs20 \ltrch\fcs0 \f1\fs20\insrsid9797564\charrsid9797564 
+Ti do il benvenuto alla nuova edizione di Stronghold Crusader HD! Ora le edizioni HD supportano risoluzioni widescreen fino a 2560 x 1600: cos\'ec potrai goderti le partite come mai prima d'ora e osservare gli incredibili dettagli presenti.
+\par 
+\par Abbiamo aggiunto anche alcune mappe bonus con cui giocare e divertirti: alcune le abbiamo create noi, altre sono state create dai membri delle nostre comunit\'e0 online.
+\par 
+\par Speriamo che ti piaccia giocare alle edizioni HD e, come sempre, ti ringraziamo per il supporto.
+\par 
+\par Firefly Studios
+\par 
+\par 
+\par }{\rtlch\fcs1 \af1\afs20 \ltrch\fcs0 \b\f1\fs20\insrsid9797564\charrsid9797564 Vecchie partite salvate e impostazioni
+\par }{\rtlch\fcs1 \af1\afs20 \ltrch\fcs0 \f1\fs20\insrsid9797564\charrsid9797564 
+\par Stronghold Crusader HD archivia le mappe utente, i salvataggi e le impostazioni nella cartella Documenti\\
+Stronghold Crusader. Se hai aggiornato il gioco, passando da una vecchia versione a Stronghold Crusader HD, dovrai copiare le mappe, i salvataggi e le impostazioni dalla cartella Programmi\\Firefly Studios\\
+Stronghold Crusader (posizione predefinita) alla cartella Documenti\\Stronghold Crusader.
+\par 
+\par Partite salvate (file .sav)
+\par 
+\par Vecchia posizione: Programmi\\Firefly Studios\\Stronghold Crusader\\saves
+\par Nuova posizione: Documenti\\Stronghold Crusader\\saves
+\par 
+\par Mappe (file .map personalizzati)
+\par 
+\par Vecchia posizione: Programmi\\Firefly Studios\\Stronghold Crusader\\maps
+\par Nuova posizione: Documenti\\Stronghold Crusader\\maps
+\par 
+\par Impostazioni (crusader.cfg)
+\par 
+\par Vecchia posizione: Programmi\\Firefly Studios\\Stronghold Crusader
+\par Nuova posizione: Documenti\\Stronghold Crusader
+\par 
+\par Skirmish Trail (skmasters.dat)
+\par 
+\par Vecchia posizione: Programmi\\Firefly Studios\\Stronghold Crusader
+\par Nuova posizione: Documenti\\Stronghold Crusader
+\par 
+\par NOTA: se stai usando Windows a 64 bit, la posizione predefinita d'installazione \'e8: Programmi (x86)\\Firefly Studios\\Stronghold Crusader
+\par }{\rtlch\fcs1 \af1\afs20 \ltrch\fcs0 \f1\fs20\insrsid9797564 
+\par }{\rtlch\fcs1 \af1\afs20 \ltrch\fcs0 \f1\fs20\insrsid9797564\charrsid9797564 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1\afs20 \ltrch\fcs0 \f1\fs20\insrsid9797564 
+\par }{\rtlch\fcs1 \af1\afs20 \ltrch\fcs0 \f1\fs20\insrsid13435031     * Sezione 1 \endash  Indirizzi web
+\par     * Sezione 2 \endash  Comandi da tastiera
+\par     * Sezione 3 \endash  Icone della minimappa
+\par     * Sezione 4 \endash  Caratteristiche aggiuntive e modifiche {\*\xmlopen\xmlns2{\factoidname State}}{\*\xmlopen\xmlns2{\factoidname place}}del{\*\xmlclose}{\*\xmlclose} gioco
+\par     * Sezione 5 \endash  Impostare la tua identit\'e0
+\par     * Sezione 6 \endash  Guida multigiocatore
+\par     * Sezione 7 \endash  Gamespy Arcade e Windows {\*\xmlopen\xmlns2{\factoidname place}}Vista{\*\xmlclose}
+\par 
+\par 
+\par }{\rtlch\fcs1 \ab\af1\afs20 \ltrch\fcs0 \b\f1\fs20\insrsid13435031 Sezione 1 \endash  Indirizzi web
+\par }{\rtlch\fcs1 \af1\afs20 \ltrch\fcs0 \f1\fs20\insrsid13435031 
+\par http://www.fireflyworlds.com\tab \tab Firefly Studios
+\par \tab 
+\par http://stronghold.heavengames.com\tab Sito di fan di Stronghold presso Heavengames
+\par \tab 
+\par http://www.stronghold-knights.com\tab Sito di fan di Stronghold
+\par 
+\par 
+\par }{\rtlch\fcs1 \ab\af1\afs20 \ltrch\fcs0 \b\f1\fs20\insrsid13435031 Sezione 2 \endash  Comandi da tastiera}{\rtlch\fcs1 \af1\afs20 \ltrch\fcs0 \f1\fs20\insrsid13435031 
+\par 
+\par Memorizzare una posizione - CTRL + ALT + da 0 a 9: premi CTRL, ALT e un tasto da 0 a 9 per memorizzare la posizione attuale sulla mappa. In seguito, premi ALT e il tasto numerico appropriato per richiamare questa posizione.
+\par 
+\par Selezionare delle unit\'e0 dello stesso tipo - Fai un doppio clic su un\rquote unit\'e0 per selezionare tutte quelle dello stesso tipo presenti sullo schermo.
+\par 
+\par Scorrere le posizioni memorizzate - Rotella del mouse.
+\par 
+\par Punti di raccolta delle truppe (caserma e sede dei mercenari) \endash 
+ Da 1 a 7. Puoi creare dei punti di raccolta per ogni tipo di truppe, nel pannello della caserma e della sede dei mercenari. Accedi alla caserma (B) e premi un tasto da 1 a 7 per posizionare una bandiera:
+ le truppe create nella struttura raggiungeranno automaticamente questa posizione. Puoi impostare dei punti di raccolta anche per altri edifici, come la capanna dell\rquote ingegnere, la gilda dello scavatore e la cattedrale.
+\par 
+\par Velocizzare i riconoscimenti \endash  Tasto freccia gi\'f9, MAIUSC & tasto freccia gi\'f9.
+\par 
+\par 
+\par }{\rtlch\fcs1 \ab\af1\afs20 \ltrch\fcs0 \b\f1\fs20\insrsid13435031 Sezione 3 \endash  Icone della minimappa}{\rtlch\fcs1 \af1\afs20 \ltrch\fcs0 \f1\fs20\insrsid13435031 
+\par 
+\par (Visualizzate al margine della minimappa)
+\par 
+\par Cerchio \endash  La fortezza \'e8 assediata.
+\par 
+\par Punto esclamativo (!) \endash  Sta avendo luogo un evento. Puoi cliccare sul punto esclamativo (!) per raggiungere la posizione dell\rquote evento.
+\par 
+\par Scudo \endash  Mostra l\rquote identit\'e0 della persona che ti sta parlando.
+\par 
+\par 
+\par }{\rtlch\fcs1 \ab\af1\afs20 \ltrch\fcs0 \b\f1\fs20\insrsid13435031 Sezione 4 \endash  Caratteristiche aggiuntive e modifiche {\*\xmlopen\xmlns2{\factoidname State}}{\*\xmlopen\xmlns2{\factoidname place}}del{\*\xmlclose}{\*\xmlclose} gioco}{\rtlch\fcs1 
+\af1\afs20 \ltrch\fcs0 \f1\fs20\insrsid13435031 
+\par 
+\par Ora gli assassini sono invisibili agli occhi {\*\xmlopen\xmlns2{\factoidname State}}{\*\xmlopen\xmlns2{\factoidname place}}del{\*\xmlclose}{\*\xmlclose} nemico e possono essere visti solo dopo essere stati scoperti. Sopra la loro testa comparir\'e0
+ un punto esclamativo (!) per indicare che l\rquote unit\'e0 \'e8 stata individuata.
+\par 
+\par Quando disputi una partita multigiocatore, l\rquote host \'e8 contraddistinto da una stella accanto al nome.
+\par 
+\par Puoi scambiare oro con i tuoi alleati. Per farlo, apri la schermata delle alleanze e quindi vai nella sezione di invio o richiesta delle merci (clicca sul pulsante per parlare con gli alleati).
+\par 
+\par All\rquote interno della schermata di invio o richiesta delle merci, clicca su una materia prima (per esempio il legno) e quindi sui pulsanti della quantit\'e0 per specificare quanta merce vuoi inviare o ricevere. Per eliminare la cifra, clicca sull
+\rquote icona {\*\xmlopen\xmlns2{\factoidname State}}{\*\xmlopen\xmlns2{\factoidname place}}del{\*\xmlclose}{\*\xmlclose} pollice verso.
+\par 
+\par Le opzioni audio ne contengono una aggiuntiva, relativa al parlato {\*\xmlopen\xmlns2{\factoidname State}}{\*\xmlopen\xmlns2{\factoidname place}}del{\*\xmlclose}{\*\xmlclose}
+ genio. Usandola puoi disattivare il parlato generico di gioco, per esempio il discorso sul Lord pi\'f9 grande. Questa opzione disattiva anche le frasi relative al gioco in pausa o in corso.
+\par 
+\par La schermata dell\rquote host multigiocatore comprende alcune opzioni extra:
+\par \lquote Nessun lancio di mucche\rquote  \endash  Le mucche non si possono lanciare con trabocchi e catapulte.
+\par \lquote Nessun cane\rquote  \endash  Non si possono usare i cani da guerra in gabbia.
+\par \lquote Nessuna fretta\rquote  \endash  Questa opzione permette di impostare un periodo di pace prima che qualsiasi giocatore possa attaccare i rivali o costruire delle truppe.
+\par 
+\par Con l\rquote editor di scenario personalizzato puoi realizzare partite di creazione {\*\xmlopen\xmlns2{\factoidname State}}{\*\xmlopen\xmlns2{\factoidname place}}del{\*\xmlclose}{\*\xmlclose}
+ castello, di Crusader e scenari personalizzati. Le mappe degli scenari personalizzati permettono di creare una mappa economica oppure di invasione, con il proprio set di eventi.
+\par 
+\par Schermata dei signori delle schermaglie \endash  Questa schermaglia elenca le mappe che hai giocato o in una partita personalizzata a Crusader o nel Sentiero di Crusader. Puoi ordinare le mappe per punteggio, nome, quantit\'e0
+ di tempo giocato e data. Puoi anche cliccare sul loro nome per ottenere informazioni aggiuntive. Un clic destro sul nome permette di eliminare la mappa. Tutti i punteggi vengono memorizzati nel 
+file skmasters.dat: puoi visualizzare fino a 250 partite in questa schermata.
+\par 
+\par Punti di forza dei Lord \endash  I vari Lord gestiti dal computer hanno ognuno i propri punti di forza, che sono evidenziati dai punti colorati sopra le loro teste. I punti blu indicano gli avversari pi\'f9
+ forti, quelli gialli quelli deboli. Possono esserci fino a cinque punti sopra la testa di un Lord. Il Lord {\*\xmlopen\xmlns2{\factoidname State}}{\*\xmlopen\xmlns2{\factoidname place}}del{\*\xmlclose}{\*\xmlclose} giocatore ha sempre qualit\'e0
+ medie e quindi non presenta punti di sorta.
+\par 
+\par 
+\par }{\rtlch\fcs1 \ab\af1\afs20 \ltrch\fcs0 \b\f1\fs20\insrsid13435031 Sezione 5 \endash  Impostare la tua identit\'e0}{\rtlch\fcs1 \af1\afs20 \ltrch\fcs0 \f1\fs20\insrsid13435031 
+\par 
+\par Puoi decidere quale tipo di Lord impersonare nel corso della partita: puoi scegliere fra un crociato e un arabo. La tua scelta non influenza le unit\'e0 che puoi costruire, ma il tipo di Lord ha effetto sulle truppe iniziali.
+\par 
+\par Puoi anche scegliere il ritratto che vuoi visualizzare quando porti il puntatore {\*\xmlopen\xmlns2{\factoidname State}}del{\*\xmlclose} mouse sopra le varie sezioni {\*\xmlopen\xmlns2{\factoidname State}}{\*\xmlopen\xmlns2{\factoidname place}}del
+{\*\xmlclose}{\*\xmlclose} tuo castello (questo ritratto sar\'e0 anche mostrato agli altri partecipanti alle partite complete nella modalit\'e0 multigiocatore). \'c8 possibile creare un ritratt
+o personalizzato, caricando il file faces.bmp (situato nella cartella principale {\*\xmlopen\xmlns2{\factoidname State}}{\*\xmlopen\xmlns2{\factoidname place}}del{\*\xmlclose}{\*\xmlclose}
+ gioco) con un programma di elaborazione grafica. Noterai che sono presenti due spazi vuoti, dove inserire i tuoi ritratti personalizzati. La dimensione {\*\xmlopen\xmlns2{\factoidname State}}{\*\xmlopen\xmlns2{\factoidname place}}del{\*\xmlclose}
+{\*\xmlclose} ritratto deve essere di 64x64 pixel.
+\par 
+\par 
+\par }{\rtlch\fcs1 \ab\af1\afs20 \ltrch\fcs0 \b\f1\fs20\insrsid13435031 Sezione 6 \endash  Guida multigiocatore}{\rtlch\fcs1 \af1\afs20 \ltrch\fcs0 \f1\fs20\insrsid13435031 
+\par 
+\par Multigiocatore in Stronghold Crusader
+\par 
+\par Se il tuo computer \'e8 connesso a un router/firewall, devi reindirizzare le seguenti porte {\*\xmlopen\xmlns2{\factoidname State}}{\*\xmlopen\xmlns2{\factoidname place}}del{\*\xmlclose}{\*\xmlclose} firewall di Microsoft DirectPlay ver
+so il tuo computer. In questo modo, potrai giocare a Stronghold Crusader in modalit\'e0 multigiocatore.
+\par  
+\par \tab \tab \tab \tab In uscita \tab In entrata
+\par Connessione TCP iniziale\tab 47624\tab \tab 47624
+\par TCP seguente\tab \tab \tab 2300-2400\tab 2300-2400
+\par UDP seguente\tab \tab \tab 2300-2400\tab 2300-2400
+\par 
+\par Se necessiti di assistenza per la configurazione {\*\xmlopen\xmlns2{\factoidname State}}{\*\xmlopen\xmlns2{\factoidname place}}del{\*\xmlclose}{\*\xmlclose}
+ tuo router, visita il sito portforward.com. Vi troverai guide e manuali per oltre 1000 modelli di router.
+\par 
+\par http://www.portforward.com/english/routers/port_forwarding/routerindex.htm
+\par 
+\par Firewall di Windows
+\par 
+\par 1.    Accedi al Pannello di controllo > Windows Firewall.
+\par 2.    Seleziona la scheda Eccezioni.
+\par 3.    Clicca su Aggiungi programma.
+\par 4.    Seleziona Stronghold Crusader e clicca su OK.
+\par 5.    Clicca su OK per chiudere la finestra di Windows Firewall.
+\par 
+\par 
+\par }{\rtlch\fcs1 \ab\af1\afs20 \ltrch\fcs0 \b\f1\fs20\insrsid13435031 Sezione 7 \endash  Gamespy Arcade e Windows {\*\xmlopen\xmlns2{\factoidname place}}Vista}{\rtlch\fcs1 \af1\afs20 \ltrch\fcs0 \f1\fs20\insrsid13435031 {\*\xmlclose}
+\par 
+\par Per giocare in modalit\'e0 multigiocatore attraverso Gamespy Arcade, \'e8 necessario il Service Pack 1 per Windows Vista.
+\par 
+\par 
+\par 
+\par 
+\par }{\rtlch\fcs1 \ab\af1\afs20 \ltrch\fcs0 \b\f1\fs20\insrsid13435031 ESPA\'d1OL}{\rtlch\fcs1 \af1\afs20 \ltrch\fcs0 \f1\fs20\insrsid13435031 
+\par }\pard \ltrpar\qc \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af1\afs20 \ltrch\fcs0 \b\f1\fs20\insrsid13435031 Stronghold Crusader }{\rtlch\fcs1 \ab\af1\afs20 \ltrch\fcs0 \b\f1\fs20\insrsid9797564 HD }{\rtlch\fcs1 
+\ab\af1\afs20 \ltrch\fcs0 \b\f1\fs20\insrsid13435031 \endash  L\'e9eme}{\rtlch\fcs1 \af1\afs20 \ltrch\fcs0 \f1\fs20\insrsid13435031 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1\afs20 \ltrch\fcs0 \f1\fs20\insrsid13435031 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0\pararsid9797564 {\rtlch\fcs1 \af1\afs20 \ltrch\fcs0 \f1\fs20\insrsid9797564\charrsid9797564 \'a1Bienvenido a la nueva edici\'f3
+n de Stronghold Crusader HD! Las versiones HD soportan resoluciones de pantalla de hasta 2560 x 1600, lo cual te permitir\'e1 disfrutar de los juegos {\*\xmlopen\xmlns2{\factoidname City}}{\*\xmlopen\xmlns2{\factoidname place}}como{\*\xmlclose}
+{\*\xmlclose} nunca antes los hab\'edas visto, disfrutando de todos los detalles.
+\par 
+\par Tambi\'e9n hemos incluido algunos mapas adicionales para que disfrutes de ellos. Algunos los hemos creado nosotros, mientras que otros son obra de miembros de nuestra asombrosa y fiel comunidad de aficionados.
+\par 
+\par Esperamos que disfrutes jugando a las versiones HD y, {\*\xmlopen\xmlns2{\factoidname City}}{\*\xmlopen\xmlns2{\factoidname place}}como{\*\xmlclose}{\*\xmlclose} siempre, muchas gracias por tu apoyo.
+\par 
+\par Firefly Studios
+\par 
+\par 
+\par }{\rtlch\fcs1 \af1\afs20 \ltrch\fcs0 \b\f1\fs20\insrsid9797564\charrsid9797564 Configuraci\'f3n y partidas guardadas antiguas
+\par }{\rtlch\fcs1 \af1\afs20 \ltrch\fcs0 \f1\fs20\insrsid9797564\charrsid9797564 
+\par Stronghold Crusader HD guarda los mapas, partidas guardas y configuraci\'f3n {\*\xmlopen\xmlns2{\factoidname State}}{\*\xmlopen\xmlns2{\factoidname place}}del{\*\xmlclose}{\*\xmlclose} usuario en la carpeta Documents\\Stronghold Crusader. Si has actua
+lizado a Stronghold Crusader HD una versi\'f3n antigua de Stronghold Crusader, deber\'e1s copiar los mapas, partidas guardadas y configuraci\'f3n de la carpeta Archivos de programa\\Firefly Studios\\Stronghold Crusader (ubicaci\'f3
+n por defecto) a la carpeta Documentos\\Stronghold Crusader.
+\par 
+\par Partidas guardadas (archivos .sav)
+\par 
+\par Ruta antigua: Archivos de programa\\Firefly Studios\\Stronghold Crusader\\saves
+\par Ruta nueva: Documentos\\Stronghold Crusader\\saves
+\par 
+\par Mapas (archivos personalizados .map)
+\par 
+\par Ruta antigua: Archivos de programa\\Firefly Studios\\Stronghold Crusader\\maps
+\par Ruta nueva: Documentos\\Stronghold Crusader\\maps
+\par 
+\par Configuraci\'f3n (crusader.cfg)
+\par 
+\par Ruta antigua: Archivos de programa\\Firefly Studios\\Stronghold Crusader
+\par Ruta nueva: Documentos\\Stronghold Crusader
+\par 
+\par Rastro de escaramuzas (skmasters.dat)
+\par 
+\par Ruta antigua: Archivos de programa\\Firefly Studios\\Stronghold Crusader
+\par Ruta nueva: Documentos\\Stronghold Crusader
+\par 
+\par NOTA: si usas Windows de 64 bits, la ruta de instalaci\'f3n por defecto es Archivos de programa (x86)\\Firefly Studios\\Stronghold Crusader
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1\afs20 \ltrch\fcs0 \f1\fs20\insrsid9797564 
+\par 
+\par 
+\par }{\rtlch\fcs1 \af1\afs20 \ltrch\fcs0 \f1\fs20\insrsid13435031     * Secci\'f3n 1. Direcciones de sitios web \'fatiles
+\par     * Secci\'f3n 2. Controles del teclado
+\par     * Secci\'f3n 3. Iconos del mini mapa
+\par     * Secci\'f3n 4. Caracter\'edsticas a\'f1adidas o cambios en el juego
+\par     * Secci\'f3n 5. Configurando tu identidad
+\par     * Secci\'f3n 6. Ayuda para Multijugador
+\par     * Secci\'f3n 7. GameSpy Arcade y Windows {\*\xmlopen\xmlns2{\factoidname place}}Vista{\*\xmlclose}
+\par 
+\par 
+\par 
+\par }{\rtlch\fcs1 \ab\af1\afs20 \ltrch\fcs0 \b\f1\fs20\insrsid13435031 Secci\'f3n 1. Direcciones de sitios web \'fatiles}{\rtlch\fcs1 \af1\afs20 \ltrch\fcs0 \f1\fs20\insrsid13435031 
+\par 
+\par http://www.fireflyworlds.com\tab \tab Firefly Studios
+\par \tab 
+\par http://stronghold.heavengames.com\tab Heavengames Fansite
+\par \tab 
+\par http://www.stronghold-knights.com\tab Stronghold Knights Fansite
+\par 
+\par 
+\par }{\rtlch\fcs1 \ab\af1\afs20 \ltrch\fcs0 \b\f1\fs20\insrsid13435031 Secci\'f3n 2. Controles {\*\xmlopen\xmlns2{\factoidname place}}{\*\xmlopen\xmlns2{\factoidname State}}del{\*\xmlclose}{\*\xmlclose} teclado}{\rtlch\fcs1 \af1\afs20 \ltrch\fcs0 
+\f1\fs20\insrsid13435031 
+\par 
+\par Marcar lugares: CTRL + ALT + 0 a 9: Pulsa CTRL + ALT + una tecla de 0 a 9 para crear una marca en el mapa {\*\xmlopen\xmlns2{\factoidname place}}{\*\xmlopen\xmlns2{\factoidname State}}del{\*\xmlclose}{\*\xmlclose}
+ lugar en el que te encuentras. Pulsa ALT y la tecla {\*\xmlopen\xmlns2{\factoidname place}}{\*\xmlopen\xmlns2{\factoidname State}}del{\*\xmlclose}{\*\xmlclose} n\'famero que hayas asignado para volver a ese lugar.
+\par 
+\par Seleccionar unidades {\*\xmlopen\xmlns2{\factoidname State}}del{\*\xmlclose} mismo tipo: Pulsa dos veces sobre una tropa para seleccionar todas las unidades {\*\xmlopen\xmlns2{\factoidname place}}{\*\xmlopen\xmlns2{\factoidname State}}del{\*\xmlclose}
+{\*\xmlclose} mismo tipo que aparezcan visibles en la pantalla.
+\par 
+\par Pasar por las marcas: Gira la rueda {\*\xmlopen\xmlns2{\factoidname place}}{\*\xmlopen\xmlns2{\factoidname State}}del{\*\xmlclose}{\*\xmlclose} rat\'f3n hacia abajo.
+\par 
+\par Puntos de reuni\'f3n de la tropa (Cuarteles y Puestos de mercenarios): teclas de 1 a 7.  Puedes crear puntos de reuni\'f3n para cada tipo de tropa en los cuarteles y puestos de mercenarios. Abre los cuarteles (B), a continuaci\'f3
+n pulsa una tecla de 1 a 7 para colocar una bandera. La tropa que creaste en el edificio caminar\'e1 hacia la bandera. Puedes establecer puntos de reuni\'f3n para otros tipos de edificios tales {\*\xmlopen\xmlns2{\factoidname place}}
+{\*\xmlopen\xmlns2{\factoidname City}}como{\*\xmlclose}{\*\xmlclose} puestos de ingenieros, gremio de tuneladores y las catedrales.
+\par 
+\par Pasar r\'e1pido por los cr\'e9ditos: Cursor abajo, MAY\'daS + Cursor abajo.
+\par 
+\par 
+\par }{\rtlch\fcs1 \ab\af1\afs20 \ltrch\fcs0 \b\f1\fs20\insrsid13435031 Secci\'f3n 3. Iconos {\*\xmlopen\xmlns2{\factoidname place}}{\*\xmlopen\xmlns2{\factoidname State}}del{\*\xmlclose}{\*\xmlclose} mini mapa
+\par }{\rtlch\fcs1 \af1\afs20 \ltrch\fcs0 \f1\fs20\insrsid13435031 
+\par (Aparecen en el borde {\*\xmlopen\xmlns2{\factoidname place}}{\*\xmlopen\xmlns2{\factoidname State}}del{\*\xmlclose}{\*\xmlclose} mini mapa)
+\par 
+\par C\'edrculo: El torre\'f3n est\'e1 cercado.
+\par 
+\par Signo de admiraci\'f3n (!): Un hecho est\'e1 sucediendo. Pulsa sobre \lquote \'a1\rquote  para ir al lugar donde se est\'e1 desarrollando el acontecimiento.
+\par 
+\par Escudo: Esto representa la identidad de la persona que te est\'e1 hablando.
+\par 
+\par 
+\par }{\rtlch\fcs1 \ab\af1\afs20 \ltrch\fcs0 \b\f1\fs20\insrsid13435031 Secci\'f3n 4. Caracter\'edsticas a\'f1adidas o cambios en el juego}{\rtlch\fcs1 \af1\afs20 \ltrch\fcs0 \f1\fs20\insrsid13435031 
+\par 
+\par Ahora los asesinos son invisibles para tus enemigos y s\'f3lo se pueden ver cuando han sido descubiertos por las tropas enemigas. El signo \lquote !\rquote  aparecer\'e1 sobre la cabeza {\*\xmlopen\xmlns2{\factoidname place}}
+{\*\xmlopen\xmlns2{\factoidname State}}del{\*\xmlclose}{\*\xmlclose} asesino para indicarte que ha sido visto.
+\par 
+\par Cuando se juega una partida multijugador, el anfitri\'f3n aparecer\'e1 con una estrella junto a su nombre.
+\par 
+\par Puedes comerciar con oro con tus aliados. {\*\xmlopen\xmlns2{\factoidname place}}Para{\*\xmlclose} hacerlo, ve a la pantalla de los aliados y a continuaci\'f3n a la secci\'f3n de env\'edo o petici\'f3n de mercanc\'edas (pulsa en el bot\'f3
+n de hablar con los aliados).
+\par 
+\par Ya dentro de la pantalla de env\'edo o petici\'f3n de mercanc\'edas, pulsa sobre un tipo de ellas (por ejemplo, {\*\xmlopen\xmlns2{\factoidname place}}{\*\xmlopen\xmlns2{\factoidname City}}madera{\*\xmlclose}{\*\xmlclose}) y pulsa sobre el bot\'f3
+n de cantidad para especificar la cantidad que deseas enviar o recibir. Puedes borrar esta cantidad pulsando sobre el icono de pulgares hacia abajo.
+\par 
+\par Las opciones de sonido incluyen una opci\'f3n adicional sobre el di\'e1logo del Genio. Esta opci\'f3n desactivar\'e1 el di\'e1logo general {\*\xmlopen\xmlns2{\factoidname State}}del{\*\xmlclose} juego, {\*\xmlopen\xmlns2{\factoidname place}}
+{\*\xmlopen\xmlns2{\factoidname City}}como{\*\xmlclose}{\*\xmlclose} por ejemplo el di\'e1logo del Se\'f1or m\'e1s importante. Esta opci\'f3n tambi\'e9n desactivar\'e1 el juego en pausa y el di\'e1logo {\*\xmlopen\xmlns2{\factoidname place}}
+{\*\xmlopen\xmlns2{\factoidname State}}del{\*\xmlclose}{\*\xmlclose} juego que se est\'e9 ejecutando.
+\par 
+\par La pantalla de anfitri\'f3n multijugador incluye algunas opciones extra. Son las siguientes:
+\par \lquote Sin lanzamiento de reses\rquote  \endash  Las vacas no se pueden lanzar desde los onagros o catapultas. .
+\par \lquote Sin perros\rquote  \endash  Los perros de guerra enjaulados no se pueden utilizar.
+\par \lquote Sin prisas\rquote  \endash  Esta opci\'f3n permite disponer de una cantidad de tiempo de paz limitado antes que los jugadores puedan atacarse o construir tropas.
+\par 
+\par Con el editor de escenarios personalizados podr\'e1s crear mapas para la construcci\'f3n de castillos, mapas de cruzados y mapas de escenarios personalizados. Los mapas de escenarios personalizados te permiten crear tanto un mapa econ\'f3mico 
+{\*\xmlopen\xmlns2{\factoidname place}}{\*\xmlopen\xmlns2{\factoidname place}}como{\*\xmlclose}{\*\xmlclose} de invasi\'f3n con sus propios grupos de sucesos.
+\par 
+\par Pantalla de maestros de escaramuzas: Esta pantalla muestra una lista de los mapas que has jugado tanto en una partida de Cruzado {\*\xmlopen\xmlns2{\factoidname place}}{\*\xmlopen\xmlns2{\factoidname place}}como{\*\xmlclose}{\*\xmlclose}
+ de Escaramuzas Encadenadas. Puedes ordenar los nombres por puntuaci\'f3n, por nombre, por cantidad de tiempo jugado o por la fecha. Tambi\'e9n puedes pulsar sobre el nombre {\*\xmlopen\xmlns2{\factoidname place}}{\*\xmlopen\xmlns2{\factoidname place}}del
+{\*\xmlclose}{\*\xmlclose} mapa para ver informaci\'f3n adicional. Si pulsas con el bot\'f3n derecho en el nombre {\*\xmlopen\xmlns2{\factoidname place}}{\*\xmlopen\xmlns2{\factoidname place}}del{\*\xmlclose}{\*\xmlclose} mapa te permitir\'e1 el
+iminarlo. Las puntuaciones se pueden guardar en el archivo skmasters.dat. Puedes haber hasta 250 partidas representadas en esta pantalla.
+\par 
+\par La fuerza del Se\'f1or: Los distintos Se\'f1ores creados por el ordenador tienen diferentes puntos fuertes. Esto se indica por los puntos que aparecer\'e1n coloreados sobre las cabezas de los Se\'f1
+ores.  Los puntos azules hacen referencia a los oponentes fuertes y los puntos amarillos se refieren a los oponentes m\'e1s d\'e9biles. Pueden tener hasta cinco puntos sobre sus cabezas. El Se\'f1or {\*\xmlopen\xmlns2{\factoidname place}}
+{\*\xmlopen\xmlns2{\factoidname place}}del{\*\xmlclose}{\*\xmlclose} jugador tiene una fuerza normal por lo que no se mostrar\'e1 ning\'fan punto.
+\par 
+\par 
+\par }{\rtlch\fcs1 \ab\af1\afs20 \ltrch\fcs0 \b\f1\fs20\insrsid13435031 Secci\'f3n 5. Configurando tu identidad}{\rtlch\fcs1 \af1\afs20 \ltrch\fcs0 \f1\fs20\insrsid13435031 
+\par 
+\par Puedes elegir el tipo de Se\'f1or con el que deseas jugar. Puedes elegir entre Se\'f1or Cruzado o Se\'f1or \'c1rabe. Esto no afectar\'e1 a las unidades que puedes construir aunque el tipo de Se\'f1or afectar\'e1 a tus tropas iniciales.
+\par 
+\par Tambi\'e9n puedes elegir {\*\xmlopen\xmlns2{\factoidname place}}del{\*\xmlclose} retrato que desees que aparezca cuando te desplaces con el rat\'f3n por las secciones de tu castillo (esta imagen tambi\'e9n se aparecer\'e1 a otros jugado
+res en las partidas completas {\*\xmlopen\xmlns2{\factoidname place}}{\*\xmlopen\xmlns2{\factoidname place}}del{\*\xmlclose}{\*\xmlclose} modo multijugador). Podr\'e1s crear tu propio retrato, cargando el archivo faces.bmp (ubicado en la carpeta ra\'edz 
+{\*\xmlopen\xmlns2{\factoidname place}}{\*\xmlopen\xmlns2{\factoidname place}}del{\*\xmlclose}{\*\xmlclose} juego) a un programa de dise\'f1o. {\*\xmlopen\xmlns2{\factoidname place}}{\*\xmlopen\xmlns2{\factoidname place}}Como{\*\xmlclose}{\*\xmlclose}
+ puedes observar, hemos dejado dos ranuras libres para tu propio retrato. El tama\'f1o de este retrato deber\'e1 ser de 64 x 64 pixels.
+\par 
+\par 
+\par }{\rtlch\fcs1 \ab\af1\afs20 \ltrch\fcs0 \b\f1\fs20\insrsid13435031 Secci\'f3n 6. Ayuda para Multijugador}{\rtlch\fcs1 \af1\afs20 \ltrch\fcs0 \f1\fs20\insrsid13435031 
+\par 
+\par Stronghold Crusader Multijugador
+\par 
+\par Si tu ordenador est\'e1 conectado a un router/firewall tendr\'e1s que abrir los siguientes puertos de Microsoft DirectPlay Firewall en tu ordenador para poder jugar a Stronghold Crusader multijugador.
+\par  
+\par \tab \tab \tab Salida\tab \tab Entrada
+\par Conexi\'f3n TCP inicial\tab 47624\tab \tab 47624
+\par TCP subsiguiente\tab 2300-2400\tab 2300-2400
+\par UDP subsiguiente\tab 2300-2400\tab 2300-2400
+\par     
+\par Si necesitas ayuda para configurar tu router, visita portforward.com que tiene una excelente gama de gu\'edas para m\'e1s de 1.000 routers.
+\par 
+\par http://www.portforward.com/english/routers/port_forwarding/routerindex.htm
+\par 
+\par Firewall de Windows
+\par 
+\par 1.    Abre Panel de control > Firewall de Windows
+\par 2.    Selecciona la pesta\'f1a de Excepciones
+\par 3.    Haz clic en Agregar programa
+\par 4.    Selecciona Stronghold Crusader y haz clic en Aceptar
+\par 5.    Haz clic en Aceptar para cerrar el panel de Firewall de Windows
+\par 
+\par 
+\par }{\rtlch\fcs1 \ab\af1\afs20 \ltrch\fcs0 \b\f1\fs20\insrsid13435031 Secci\'f3n 7. GameSpy Arcade y Windows {\*\xmlopen\xmlns2{\factoidname place}}Vista}{\rtlch\fcs1 \af1\afs20 \ltrch\fcs0 \f1\fs20\insrsid13435031 {\*\xmlclose}
+\par 
+\par Para jugar en modo multijugador a trav\'e9s de GameSpy Arcade en Windows Vista, hay que tener instalado el Service Pack 1 de Windows {\*\xmlopen\xmlns2{\factoidname place}}Vista{\*\xmlclose}.
+\par 
+\par }{\rtlch\fcs1 \af1\afs20 \ltrch\fcs0 \f1\fs20\insrsid13435031\charrsid12391862 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid12391862 {\rtlch\fcs1 \ab\af1\afs20 \ltrch\fcs0 \b\f1\fs20\lang1033\langfe2057\langnp1033\insrsid12391862\charrsid12391862 POLSKI
+\par 
+\par }\pard\plain \ltrpar\s1\qc \li0\ri0\nowidctlpar\wrapdefault\faauto\outlinelevel0\rin0\lin0\itap0\pararsid12391862 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 \fs24\lang2057\langfe2057\cgrid\langnp2057\langfenp2057 {\rtlch\fcs1 \ab\af215\afs20 
+\ltrch\fcs0 \b\f215\fs20\ul\lang1045\langfe2057\langnp1045\insrsid12391862\charrsid12391862 Twierdza: Krzy\'bfowiec HD}{\rtlch\fcs1 \ab\af1\afs20 \ltrch\fcs0 \b\f1\fs20\ul\lang1045\langfe2057\langnp1045\insrsid12391862\charrsid12391862  \endash  Readme
+
+\par }\pard\plain \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid12391862 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 \fs24\lang2057\langfe2057\cgrid\langnp2057\langfenp2057 {\rtlch\fcs1 \ab\af1\afs20 
+\ltrch\fcs0 \b\f1\fs20\lang1033\langfe2057\langnp1033\insrsid12391862 
+\par }{\rtlch\fcs1 \af215\afs20 \ltrch\fcs0 \f215\fs20\cf1\insrsid15999601 Witamy w nowej edycji gry Twierdza: Krzy\'bfowiec HD! Edycje HD obs\'b3uguj\'b9 panoramiczny tryb wy\'9cwietlania w rozdzielczo\'9cciach nawet do 2560 x 1600, co pozwala cieszy\'e6 si
+\'ea gr\'b9 na niedost\'eapnym dot\'b9d poziomie szczeg\'f3\'b3owo\'9cci grafiki}{\rtlch\fcs1 \af1\afs20 \ltrch\fcs0 \f1\fs20\cf1\insrsid15999601 .}{\rtlch\fcs1 \af1\afs27 \ltrch\fcs0 \cs17\f1\fs27\cf1\insrsid15999601 \~}{\rtlch\fcs1 \af215\afs20 
+\ltrch\fcs0 \f215\fs20\cf1\insrsid15999601 \line \line Dodali\'9cmy tak\'bfe kilka map, gotowych do gry i zabawy. Niekt\'f3re z nich stworzyli\'9cmy sami, a niekt\'f3re opracowali cz\'b3onkowie naszej wyj\'b9tkowej i zaanga\'bfowanej spo\'b3eczno\'9c
+ci fan\'f3w}{\rtlch\fcs1 \af1\afs20 \ltrch\fcs0 \f1\fs20\cf1\insrsid15999601 .}{\rtlch\fcs1 \af1\afs27 \ltrch\fcs0 \cs17\f1\fs27\cf1\insrsid15999601 \~}{\rtlch\fcs1 \af215\afs20 \ltrch\fcs0 \f215\fs20\cf1\insrsid15999601 \line \line Mamy nadziej\'ea, \'bf
+e gra w edycje HD zapewni przyjemne doznania oraz, jak zawsze, dzi\'eakujemy za wsparcie}{\rtlch\fcs1 \af1\afs20 \ltrch\fcs0 \f1\fs20\cf1\insrsid15999601 .}{\rtlch\fcs1 \af1\afs27 \ltrch\fcs0 \cs17\f1\fs27\cf1\insrsid15999601 \~}{\rtlch\fcs1 \af1\afs20 
+\ltrch\fcs0 \f1\fs20\cf1\insrsid15999601 \line \line Firefly Studio}{\rtlch\fcs1 \af1\afs20 \ltrch\fcs0 \f1\fs20\cf1\insrsid15999601 s}{\rtlch\fcs1 \af1\afs27 \ltrch\fcs0 \cs17\f1\fs27\cf1\insrsid15999601 \~}{\rtlch\fcs1 \af1\afs20 \ltrch\fcs0 
+\f1\fs20\cf1\insrsid15999601 \line \line \line }{\rtlch\fcs1 \ab\af1\afs20 \ltrch\fcs0 \b\f1\fs20\cf1\insrsid15999601 Poprzednie zapisane gry i ustawieni}{\rtlch\fcs1 \ab\af1\afs20 \ltrch\fcs0 \b\f1\fs20\cf1\insrsid15999601 a}{\rtlch\fcs1 \af1\afs27 
+\ltrch\fcs0 \cs17\f1\fs27\cf1\insrsid15999601 \~}{\rtlch\fcs1 \af215\afs20 \ltrch\fcs0 \f215\fs20\cf1\insrsid15999601 \line \line Mapy u\'bfytkownik\'f3w, zapisane gry i ustawienia gry Twierdza: Krzy\'bfowiec HD s\'b9 przechowywane w folderze Documents\\
+Stronghold Crusader. Je\'9cli gra zosta\'b3a uaktualniona z wersji Twierdza: Krzy\'bfowiec do wersji Twierdza: Krzy\'bfowiec HD, nale\'bfy skopiowa\'e6 mapy, zapisane gry i ustawienia z folderu Program Files\\Firefly Studios\\Stronghold Crusader (domy\'9c
+lny) do folderu Documents\\Stronghold Crusader.\line }{\rtlch\fcs1 \af1\afs20 \ltrch\fcs0 \f1\fs20\cf1\insrsid15999601 \line }{\rtlch\fcs1 \af1\afs20 \ltrch\fcs0 \f1\fs20\cf1\insrsid15999601 Zapisane gry (pliki .sav}{\rtlch\fcs1 \af1\afs20 \ltrch\fcs0 
+\f1\fs20\cf1\insrsid15999601 )}{\rtlch\fcs1 \af1\afs27 \ltrch\fcs0 \cs17\f1\fs27\cf1\insrsid15999601 \~}{\rtlch\fcs1 \af1\afs20 \ltrch\fcs0 \f1\fs20\cf1\insrsid15999601 \line \line Poprzednia lokalizacja: Program Files\\Firefly Studios\\
+Stronghold Crusader\\save}{\rtlch\fcs1 \af1\afs20 \ltrch\fcs0 \f1\fs20\cf1\insrsid15999601 s}{\rtlch\fcs1 \af1\afs27 \ltrch\fcs0 \cs17\f1\fs27\cf1\insrsid15999601 \~}{\rtlch\fcs1 \af215\afs20 \ltrch\fcs0 \f215\fs20\cf1\insrsid15999601 \line 
+Nowa lokalizacja: Documents\\Stronghold Crusader\\Saves\line \line Mapy (w\'b3asne pliki .map}{\rtlch\fcs1 \af1\afs20 \ltrch\fcs0 \f1\fs20\cf1\insrsid15999601 )}{\rtlch\fcs1 \af1\afs27 \ltrch\fcs0 \cs17\f1\fs27\cf1\insrsid15999601 \~}{\rtlch\fcs1 
+\af1\afs20 \ltrch\fcs0 \f1\fs20\cf1\insrsid15999601 \line \line Poprzednia lokalizacja: Program Files\\Firefly Studios\\Stronghold Crusader\\map}{\rtlch\fcs1 \af1\afs20 \ltrch\fcs0 \f1\fs20\cf1\insrsid15999601 s}{\rtlch\fcs1 \af1\afs27 \ltrch\fcs0 
+\cs17\f1\fs27\cf1\insrsid15999601 \~}{\rtlch\fcs1 \af1\afs20 \ltrch\fcs0 \f1\fs20\cf1\insrsid15999601 \line Nowa lokalizacja:Documents\\Stronghold Crusader\\maps\line \line Ustawienia (crusader.cfg}{\rtlch\fcs1 \af1\afs20 \ltrch\fcs0 
+\f1\fs20\cf1\insrsid15999601 )}{\rtlch\fcs1 \af1\afs27 \ltrch\fcs0 \cs17\f1\fs27\cf1\insrsid15999601 \~}{\rtlch\fcs1 \af1\afs20 \ltrch\fcs0 \f1\fs20\cf1\insrsid15999601 \line \line Poprzednia lokalizacja: Program Files\\Firefly Studios\\Stronghold Crusade
+}{\rtlch\fcs1 \af1\afs20 \ltrch\fcs0 \f1\fs20\cf1\insrsid15999601 r}{\rtlch\fcs1 \af1\afs27 \ltrch\fcs0 \cs17\f1\fs27\cf1\insrsid15999601 \~}{\rtlch\fcs1 \af1\afs20 \ltrch\fcs0 \f1\fs20\cf1\insrsid15999601 \line Nowa lokalizacja: Documents\\
+Stronghold Crusader\line \line Dane potyczek (skmasters.dat)\line \line Poprzednia lokalizacja: Pro}{\rtlch\fcs1 \af215\afs20 \ltrch\fcs0 \f215\fs20\cf1\insrsid15999601 gram Files\\Firefly Studios\\Stronghold Crusader\line Nowa lokalizacja: Documents\\
+Stronghold Crusader\line \line UWAGA: Je\'9cli u\'bfywasz 64-bitowego systemu Windows, domy\'9clna lokalizacja instalacji gry to Program Files (x86)\\Firefly Studios\\Stronghold Crusade}{\rtlch\fcs1 \af1\afs20 \ltrch\fcs0 \f1\fs20\cf1\insrsid15999601 r}{
+\rtlch\fcs1 \af1\afs20 \ltrch\fcs0 \f1\fs20\cf1\insrsid15999601 
+\par }{\rtlch\fcs1 \ab\af1\afs20 \ltrch\fcs0 \b\f1\fs20\lang1033\langfe2057\langnp1033\insrsid15999601 
+\par }{\rtlch\fcs1 \ab\af1\afs20 \ltrch\fcs0 \b\f1\fs20\lang1033\langfe2057\langnp1033\insrsid15999601\charrsid12391862 
+\par }\pard\plain \ltrpar\s2\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\outlinelevel1\rin0\lin0\itap0\pararsid12391862 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 \fs24\lang2057\langfe2057\cgrid\langnp2057\langfenp2057 {\rtlch\fcs1 \ab\af1\afs20 \ltrch\fcs0 
+\b\f1\fs20\lang1045\langfe2057\langnp1045\insrsid12391862\charrsid12391862 Rozdzia}{\rtlch\fcs1 \ab\af215\afs20 \ltrch\fcs0 \b\f215\fs20\lang1045\langfe2057\langnp1045\insrsid15999601 \'b3 1}{\rtlch\fcs1 \ab\af1\afs20 \ltrch\fcs0 
+\b\f1\fs20\lang1045\langfe2057\langnp1045\insrsid12391862\charrsid12391862  \endash  Przydatne adresy}{\rtlch\fcs1 \ab\af1\afs20 \ltrch\fcs0 \b\f1\fs20\lang1045\langfe2057\langnp1045\insrsid12391862 
+\par }\pard\plain \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid5846042 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 \fs24\lang2057\langfe2057\cgrid\langnp2057\langfenp2057 {\rtlch\fcs1 \ab\af1\afs20 
+\ltrch\fcs0 \b\f1\fs20\lang1045\langfe2057\langnp1045\insrsid5846042\charrsid15999601 Rozdzia}{\rtlch\fcs1 \ab\af215\afs20 \ltrch\fcs0 \b\f215\fs20\lang1045\langfe2057\langnp1045\insrsid5846042\charrsid15999601 \'b3 }{\rtlch\fcs1 \ab\af1\afs20 
+\ltrch\fcs0 \b\f1\fs20\lang1045\langfe2057\langnp1045\insrsid5846042\charrsid15999601 2 - }{\rtlch\fcs1 \af1\afs20 \ltrch\fcs0 \b\f1\fs20\lang1045\langfe2057\langnp1045\insrsid5846042\charrsid15999601 Komendy klawiaturowe}{\rtlch\fcs1 \af1\afs20 
+\ltrch\fcs0 \b\f1\fs20\lang1045\langfe2057\langnp1045\insrsid5846042 
+\par }\pard\plain \ltrpar\s1\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\outlinelevel0\rin0\lin0\itap0\pararsid5846042 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 \fs24\lang2057\langfe2057\cgrid\langnp2057\langfenp2057 {\rtlch\fcs1 \ab\af1\afs20 \ltrch\fcs0 
+\b\f1\fs20\lang1045\langfe2057\langnp1045\insrsid5846042\charrsid5846042 Rozdzia}{\rtlch\fcs1 \ab\af215\afs20 \ltrch\fcs0 \b\f215\fs20\lang1045\langfe2057\langnp1045\insrsid5846042\charrsid5846042 \'b3}{\rtlch\fcs1 \ab\af1\afs20 \ltrch\fcs0 
+\b\f1\fs20\lang1045\langfe2057\langnp1045\insrsid5846042\charrsid5846042  3 - }{\rtlch\fcs1 \ab\af215\afs20 \ltrch\fcs0 \b\f215\fs20\lang1045\langfe2057\langnp1045\insrsid5846042\charrsid5846042 Ikony mapy pogl\'b9dowe}{\rtlch\fcs1 \ab\af1\afs20 
+\ltrch\fcs0 \b\f1\fs20\lang1045\langfe2057\langnp1045\insrsid5846042\charrsid5846042 j
+\par }\pard\plain \ltrpar\s2\ql \li0\ri0\nowidctlpar\wrapdefault\aspalpha\aspnum\faauto\outlinelevel1\adjustright\rin0\lin0\itap0\pararsid5846042 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 \fs24\lang2057\langfe2057\cgrid\langnp2057\langfenp2057 {\rtlch\fcs1 
+\ab\af1\afs20 \ltrch\fcs0 \b\f1\fs20\lang1045\langfe2057\langnp1045\insrsid5846042\charrsid5846042 Rozdzia}{\rtlch\fcs1 \ab\af215\afs20 \ltrch\fcs0 \b\f215\fs20\lang1045\langfe2057\langnp1045\insrsid5846042\charrsid5846042 \'b3}{\rtlch\fcs1 \ab\af1\afs20 
+\ltrch\fcs0 \b\f1\fs20\lang1045\langfe2057\langnp1045\insrsid5846042\charrsid5846042  4 - Dodatkowe elementy i zmiany w grze
+\par Rozdzia}{\rtlch\fcs1 \ab\af215\afs20 \ltrch\fcs0 \b\f215\fs20\lang1045\langfe2057\langnp1045\insrsid5846042\charrsid5846042 \'b3}{\rtlch\fcs1 \ab\af1\afs20 \ltrch\fcs0 \b\f1\fs20\lang1045\langfe2057\langnp1045\insrsid5846042\charrsid5846042  5 -
+ Personalizacja ustawie}{\rtlch\fcs1 \ab\af215\afs20 \ltrch\fcs0 \b\f215\fs20\lang1045\langfe2057\langnp1045\insrsid5846042\charrsid5846042 \'f1}{\rtlch\fcs1 \ab\af1\afs20 \ltrch\fcs0 
+\b\f1\fs20\lang1045\langfe2057\langnp1045\insrsid5846042\charrsid5846042 
+\par }\pard \ltrpar\s2\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\outlinelevel1\rin0\lin0\itap0\pararsid5846042 {\rtlch\fcs1 \ab\af1\afs20 \ltrch\fcs0 \b\f1\fs20\lang1045\langfe2057\langnp1045\insrsid5846042\charrsid12391862 Rozdzia}{\rtlch\fcs1 
+\ab\af215\afs20 \ltrch\fcs0 \b\f215\fs20\lang1045\langfe2057\langnp1045\insrsid5846042\charrsid12391862 \'b3 }{\rtlch\fcs1 \ab\af1\afs20 \ltrch\fcs0 \b\f1\fs20\lang1045\langfe2057\langnp1045\insrsid5846042\charrsid12391862 6 \endash  Tryb wieloosobowy}{
+\rtlch\fcs1 \ab\af1\afs20 \ltrch\fcs0 \b\f1\fs20\lang1045\langfe2057\langnp1045\insrsid5846042 
+\par }{\rtlch\fcs1 \ab\af215\afs20 \ltrch\fcs0 \b\f215\fs20\lang1045\langfe2057\langnp1045\insrsid5846042\charrsid12391862 Rozdzia\'b3 }{\rtlch\fcs1 \ab\af1\afs20 \ltrch\fcs0 \b\f1\fs20\lang1045\langfe2057\langnp1045\insrsid5846042\charrsid12391862 7 \endash 
+ GameSpy Arcade i Windows Vista
+\par }\pard\plain \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid12391862 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 \fs24\lang2057\langfe2057\cgrid\langnp2057\langfenp2057 {\rtlch\fcs1 \ab\af1\afs20 
+\ltrch\fcs0 \b\f1\fs20\lang1045\langfe2057\langnp1045\insrsid5846042\charrsid12391862 
+\par }{\rtlch\fcs1 \af1\afs20 \ltrch\fcs0 \f1\fs20\lang1045\langfe2057\langnp1045\insrsid12391862\charrsid12391862 
+\par }\pard\plain \ltrpar\s2\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\outlinelevel1\rin0\lin0\itap0\pararsid12391862 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 \fs24\lang2057\langfe2057\cgrid\langnp2057\langfenp2057 {\rtlch\fcs1 \ab\af215\afs20 
+\ltrch\fcs0 \b\f215\fs20\lang1045\langfe2057\langnp1045\insrsid12391862\charrsid12391862 Rozdzia\'b3 1}{\rtlch\fcs1 \ab\af1\afs20 \ltrch\fcs0 \b\f1\fs20\lang1045\langfe2057\langnp1045\insrsid12391862\charrsid12391862  \endash  Przydatne adresy
+\par }\pard\plain \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid12391862 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 \fs24\lang2057\langfe2057\cgrid\langnp2057\langfenp2057 {\rtlch\fcs1 \ab\af1\afs20 
+\ltrch\fcs0 \b\f1\fs20\ul\lang1045\langfe2057\langnp1045\insrsid12391862\charrsid12391862 
+\par }{\rtlch\fcs1 \af1\afs20 \ltrch\fcs0 \f1\fs20\insrsid12391862\charrsid12391862 http://www.fireflyworlds.com\tab \tab - Firefly Studios
+\par 
+\par http://strongholdnet.gry-online.pl\tab \tab - StrongholdNet}{\rtlch\fcs1 \af1\afs20 \ltrch\fcs0 \f1\fs20\lang1045\langfe2057\langnp1045\insrsid12391862\charrsid12391862 
+\par 
+\par http://stronghold.heavengames.com\tab - strona fanowska Heavengames
+\par 
+\par http://www.stronghold-knights.com\tab - strona fanowska Stronghold Knights
+\par 
+\par }{\rtlch\fcs1 \af1\afs20 \ltrch\fcs0 \f1\fs20\lang1045\langfe2057\langnp1045\insrsid12391862\charrsid15999601 
+\par }{\rtlch\fcs1 \ab\af1\afs20 \ltrch\fcs0 \b\f1\fs20\lang1045\langfe2057\langnp1045\insrsid12391862\charrsid15999601 Rozdzia}{\rtlch\fcs1 \ab\af215\afs20 \ltrch\fcs0 \b\f215\fs20\lang1045\langfe2057\langnp1045\insrsid12391862\charrsid15999601 \'b3 }{
+\rtlch\fcs1 \ab\af1\afs20 \ltrch\fcs0 \b\f1\fs20\lang1045\langfe2057\langnp1045\insrsid12391862\charrsid15999601 2 - }{\rtlch\fcs1 \af1\afs20 \ltrch\fcs0 \b\f1\fs20\lang1045\langfe2057\langnp1045\insrsid12391862\charrsid15999601 Komendy klawiaturowe
+
+\par }{\rtlch\fcs1 \af1\afs20 \ltrch\fcs0 \f1\fs20\lang1045\langfe2057\langnp1045\insrsid12391862\charrsid12391862 
+\par }{\rtlch\fcs1 \ab\af1\afs20 \ltrch\fcs0 \b\f1\fs20\lang1045\langfe2057\langnp1045\insrsid12391862\charrsid12391862 Zaznaczanie lokacji}{\rtlch\fcs1 \af1\afs20 \ltrch\fcs0 \f1\fs20\lang1045\langfe2057\langnp1045\insrsid12391862\charrsid12391862  \endash  
+Na}{\rtlch\fcs1 \af215\afs20 \ltrch\fcs0 \f215\fs20\lang1045\langfe2057\langnp1045\insrsid12391862\charrsid12391862 ci\'9cni\'eacie kombinacji kl}{\rtlch\fcs1 \af1\afs20 \ltrch\fcs0 \f1\fs20\lang1045\langfe2057\langnp1045\insrsid12391862\charrsid12391862 
+awiszy CTRL+ALT+0\endash 9 spowoduje }{\rtlch\fcs1 \af215\afs20 \ltrch\fcs0 \f215\fs20\lang1045\langfe2057\langnp1045\insrsid12391862\charrsid12391862 zaznaczenie bie\'bf\'b9cej lokacji na mapie. }{\rtlch\fcs1 \af1\afs20 \ltrch\fcs0 
+\f1\fs20\lang1045\langfe2057\langnp1045\insrsid12391862\charrsid12391862 Na}{\rtlch\fcs1 \af215\afs20 \ltrch\fcs0 \f215\fs20\lang1045\langfe2057\langnp1045\insrsid12391862\charrsid12391862 ci\'9cni\'ea
+cie kombinacji ALT i odpowiedni klawisz numeryczny centruje ekran na uprzednio zaznaczonej lokacji.
+\par }{\rtlch\fcs1 \af1\afs20 \ltrch\fcs0 \f1\fs20\lang1045\langfe2057\langnp1045\insrsid12391862\charrsid12391862 
+\par }{\rtlch\fcs1 \ab\af1\afs20 \ltrch\fcs0 \b\f1\fs20\lang1045\langfe2057\langnp1045\insrsid12391862\charrsid12391862 Zaznaczanie jednakowych jednostek}{\rtlch\fcs1 \af215\afs20 \ltrch\fcs0 
+\f215\fs20\lang1045\langfe2057\langnp1045\insrsid12391862\charrsid12391862  \endash  Dwukrotne klikni\'eaci}{\rtlch\fcs1 \af1\afs20 \ltrch\fcs0 \f1\fs20\lang1045\langfe2057\langnp1045\insrsid12391862\charrsid12391862 e na jednostce powoduje
+ zaznaczenie wszystkich jednostek tego samego typu widocznych na ekranie.
+\par 
+\par }{\rtlch\fcs1 \ab\af1\afs20 \ltrch\fcs0 \b\f1\fs20\lang1045\langfe2057\langnp1045\insrsid12391862\charrsid12391862 Przewijanie zaznaczonych lokacji}{\rtlch\fcs1 \af215\afs20 \ltrch\fcs0 
+\f215\fs20\lang1045\langfe2057\langnp1045\insrsid12391862\charrsid12391862  \endash  K\'f3\'b3ko myszy w d\'f3\'b3.
+\par }{\rtlch\fcs1 \af1\afs20 \ltrch\fcs0 \f1\fs20\lang1045\langfe2057\langnp1045\insrsid12391862\charrsid12391862 
+\par }{\rtlch\fcs1 \ab\af1\afs20 \ltrch\fcs0 \b\f1\fs20\lang1045\langfe2057\langnp1045\insrsid12391862\charrsid12391862 Punkt zborny jednostek (koszary i ob\'f3z najemnik\'f3w) }{\rtlch\fcs1 \af215\afs20 \ltrch\fcs0 
+\f215\fs20\lang1045\langfe2057\langnp1045\insrsid12391862\charrsid12391862 \endash  Klawisze od 1 do 7. Dla ka\'bfdego typu jednostek w k}{\rtlch\fcs1 \af1\afs20 \ltrch\fcs0 \f1\fs20\lang1045\langfe2057\langnp1045\insrsid12391862\charrsid12391862 
+oszarach i obozie najem}{\rtlch\fcs1 \af215\afs20 \ltrch\fcs0 \f215\fs20\lang1045\langfe2057\langnp1045\insrsid12391862\charrsid12391862 nik\'f3w mo\'bfesz wyznaczy\'e6 osobny punkt zborny. Zaznacz koszary (B), nast\'eapnie naci\'9cnij klawisze 1\endash 
+7, aby umie\'9cci\'e6 flag\'ea na obszarze mapy. Nowo rekrutowana jednostka skieruje si\'ea do flagi. Punkty zborne mo\'bfesz definiowa\'e6 r\'f3wnie\'bf w wypadk}{\rtlch\fcs1 \af1\afs20 \ltrch\fcs0 
+\f1\fs20\lang1045\langfe2057\langnp1045\insrsid12391862\charrsid12391862 u innych budynk\'f3w, taki}{\rtlch\fcs1 \af215\afs20 \ltrch\fcs0 \f215\fs20\lang1045\langfe2057\langnp1045\insrsid12391862\charrsid12391862 ch jak cech in\'bfynier\'f3
+w, cech kopaczy oraz katedra.
+\par }{\rtlch\fcs1 \af1\afs20 \ltrch\fcs0 \f1\fs20\lang1045\langfe2057\langnp1045\insrsid12391862\charrsid12391862 
+\par }{\rtlch\fcs1 \ab\af1\afs20 \ltrch\fcs0 \b\f1\fs20\lang1045\langfe2057\langnp1045\insrsid12391862\charrsid12391862 Szybsze przewijanie listy tw\'f3rc\'f3w gry}{\rtlch\fcs1 \ab\af1\afs20 \ltrch\fcs0 
+\f1\fs20\lang1045\langfe2057\langnp1045\insrsid12391862\charrsid12391862  }{\rtlch\fcs1 \af215\afs20 \ltrch\fcs0 \f215\fs20\lang1045\langfe2057\langnp1045\insrsid12391862\charrsid12391862 \endash  Klawisz kursora ze strza\'b3k\'b9 w d\'f3\'b3
+, SHIFT i klawisz kursora ze strza\'b3k\'b9 w d\'f3\'b3}{\rtlch\fcs1 \af1\afs20 \ltrch\fcs0 \f1\fs20\lang1045\langfe2057\langnp1045\insrsid12391862\charrsid12391862 .
+\par }{\rtlch\fcs1 \af1\afs20 \ltrch\fcs0 \f1\fs20\lang1045\langfe2057\langnp1045\insrsid12391862 
+\par }{\rtlch\fcs1 \af1\afs20 \ltrch\fcs0 \f1\fs20\lang1045\langfe2057\langnp1045\insrsid5846042\charrsid12391862 
+\par }\pard\plain \ltrpar\s1\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\outlinelevel0\rin0\lin0\itap0\pararsid12391862 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 \fs24\lang2057\langfe2057\cgrid\langnp2057\langfenp2057 {\rtlch\fcs1 \ab\af1\afs20 \ltrch\fcs0 
+\b\f1\fs20\lang1045\langfe2057\langnp1045\insrsid12391862\charrsid5846042 Rozdzia}{\rtlch\fcs1 \ab\af215\afs20 \ltrch\fcs0 \b\f215\fs20\lang1045\langfe2057\langnp1045\insrsid12391862\charrsid5846042 \'b3}{\rtlch\fcs1 \ab\af1\afs20 \ltrch\fcs0 
+\b\f1\fs20\lang1045\langfe2057\langnp1045\insrsid12391862\charrsid5846042  3 - }{\rtlch\fcs1 \ab\af215\afs20 \ltrch\fcs0 \b\f215\fs20\lang1045\langfe2057\langnp1045\insrsid12391862\charrsid5846042 Ikony mapy pogl\'b9dowej
+\par }\pard\plain \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid12391862 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 \fs24\lang2057\langfe2057\cgrid\langnp2057\langfenp2057 {\rtlch\fcs1 \af1\afs20 
+\ltrch\fcs0 \f1\fs20\lang1045\langfe2057\langnp1045\insrsid12391862\charrsid12391862 
+\par }{\rtlch\fcs1 \af215\afs20 \ltrch\fcs0 \f215\fs20\lang1045\langfe2057\langnp1045\insrsid12391862\charrsid12391862 (Wy\'9cwietlane obok mapy pogl\'b9d}{\rtlch\fcs1 \af1\afs20 \ltrch\fcs0 
+\f1\fs20\lang1045\langfe2057\langnp1045\insrsid12391862\charrsid12391862 owej)
+\par }{\rtlch\fcs1 \ab\af1\afs20 \ltrch\fcs0 \b\f1\fs20\lang1045\langfe2057\langnp1045\insrsid12391862\charrsid12391862 
+\par }{\rtlch\fcs1 \ab\af215\afs20 \ltrch\fcs0 \b\f215\fs20\lang1045\langfe2057\langnp1045\insrsid12391862\charrsid12391862 Okr\'b9g}{\rtlch\fcs1 \af1\afs20 \ltrch\fcs0 \f1\fs20\lang1045\langfe2057\langnp1045\insrsid12391862\charrsid12391862  \endash 
+ Siedziba otoczona.
+\par 
+\par }{\rtlch\fcs1 \ab\af1\afs20 \ltrch\fcs0 \b\f1\fs20\lang1045\langfe2057\langnp1045\insrsid12391862\charrsid12391862 Wykrzyknik}{\rtlch\fcs1 \af215\afs20 \ltrch\fcs0 \f215\fs20\lang1045\langfe2057\langnp1045\insrsid12391862\charrsid12391862  (!) \endash 
+ Nast\'b9pi\'b3o zdarzenie. Klikni\'eacie na wykrzykniku (\'84!\'94) przeniesie ci\'ea w miejsce, w kt\'f3rym dosz\'b3o do danego zdarzenia.}{\rtlch\fcs1 \af1\afs20 \ltrch\fcs0 \f1\fs20\lang1045\langfe2057\langnp1045\insrsid12391862\charrsid12391862 
+
+\par 
+\par }{\rtlch\fcs1 \ab\af1\afs20 \ltrch\fcs0 \b\f1\fs20\lang1045\langfe2057\langnp1045\insrsid12391862\charrsid12391862 Tarcza }{\rtlch\fcs1 \af215\afs20 \ltrch\fcs0 \f215\fs20\lang1045\langfe2057\langnp1045\insrsid12391862\charrsid12391862 \endash 
+ Pozwala zidentyfikowa\'e6 osob\'ea, z kt\'f3r\'b9 prowadzisz rozmow\'ea.}{\rtlch\fcs1 \af1\afs20 \ltrch\fcs0 \f1\fs20\lang1045\langfe2057\langnp1045\insrsid12391862\charrsid12391862 
+\par }{\rtlch\fcs1 \af1\afs20 \ltrch\fcs0 \b\f1\fs20\ul\lang1045\langfe2057\langnp1045\insrsid12391862 
+\par }{\rtlch\fcs1 \af1\afs20 \ltrch\fcs0 \b\f1\fs20\ul\lang1045\langfe2057\langnp1045\insrsid5846042\charrsid12391862 
+\par }\pard\plain \ltrpar\s2\ql \li0\ri0\nowidctlpar\wrapdefault\aspalpha\aspnum\faauto\outlinelevel1\adjustright\rin0\lin0\itap0\pararsid12391862 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 \fs24\lang2057\langfe2057\cgrid\langnp2057\langfenp2057 {
+\rtlch\fcs1 \ab\af1\afs20 \ltrch\fcs0 \b\f1\fs20\lang1045\langfe2057\langnp1045\insrsid12391862\charrsid5846042 Rozdzia}{\rtlch\fcs1 \ab\af215\afs20 \ltrch\fcs0 \b\f215\fs20\lang1045\langfe2057\langnp1045\insrsid12391862\charrsid5846042 \'b3}{\rtlch\fcs1 
+\ab\af1\afs20 \ltrch\fcs0 \b\f1\fs20\lang1045\langfe2057\langnp1045\insrsid12391862\charrsid5846042  4 - Dodatkowe elementy i zmiany w grze
+\par }\pard\plain \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid12391862 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 \fs24\lang2057\langfe2057\cgrid\langnp2057\langfenp2057 {\rtlch\fcs1 \af1\afs20 
+\ltrch\fcs0 \f1\fs20\lang1045\langfe2057\langnp1045\insrsid12391862\charrsid12391862 
+\par }{\rtlch\fcs1 \af215\afs20 \ltrch\fcs0 \f215\fs20\lang1045\langfe2057\langnp1045\insrsid12391862\charrsid12391862 Asasyni s\'b9 zwykle niewidoczni dla nieprzyjaciela, mog\'b9 jednak zosta\'e6 dostrze\'bfeni przez wrogie jednostki militarne. Pojawiaj\'b9
+cy si\'ea znak \'84!\'94 nad asasynem (zab\'f3jc\'b9) oznacza, \'bfe zosta\'b3 on odkryty. }{\rtlch\fcs1 \af1\afs20 \ltrch\fcs0 \f1\fs20\lang1045\langfe2057\langnp1045\insrsid12391862\charrsid12391862 
+\par 
+\par Podczas rozgrywki w trybie wieloosobowym gospodarz gry (host) jest oznaczon}{\rtlch\fcs1 \af215\afs20 \ltrch\fcs0 \f215\fs20\lang1045\langfe2057\langnp1045\insrsid12391862\charrsid12391862 y symbolem gwiazdy, kt\'f3ry znajduje si\'ea obok jego pseudonimu.
+}{\rtlch\fcs1 \af1\afs20 \ltrch\fcs0 \f1\fs20\lang1045\langfe2057\langnp1045\insrsid12391862\charrsid12391862 
+\par 
+\par }{\rtlch\fcs1 \af215\afs20 \ltrch\fcs0 \f215\fs20\lang1045\langfe2057\langnp1045\insrsid12391862\charrsid12391862 Mo\'bfesz handlowa\'e6 towarami ze sprzymierze\'f1cami. W tym celu otw\'f3rz panel sprzymierze\'f1c\'f3w, a nast\'eapnie przejd\'9f
+ do sekcji \'84Wy\'9clij\'94 lub \'84Za\'bf\'b9daj\'94 (kliknij na przycisku rozmowy ze sprzymierze\'f1cem).}{\rtlch\fcs1 \af1\afs20 \ltrch\fcs0 \f1\fs20\lang1045\langfe2057\langnp1045\insrsid12391862\charrsid12391862 
+\par 
+\par }{\rtlch\fcs1 \af215\afs20 \ltrch\fcs0 \f215\fs20\lang1045\langfe2057\langnp1045\insrsid12391862\charrsid12391862 Na ekranie wysy\'b3ania i \'bf\'b9dania towar\'f3w kliknij na konkretnym towarze (n}{\rtlch\fcs1 \af1\afs20 \ltrch\fcs0 
+\f1\fs20\lang1045\langfe2057\langnp1045\insrsid12391862\charrsid12391862 a p}{\rtlch\fcs1 \af215\afs20 \ltrch\fcs0 \f215\fs20\lang1045\langfe2057\langnp1045\insrsid12391862\charrsid12391862 rzyk\'b3ad na}{\rtlch\fcs1 \af1\afs20 \ltrch\fcs0 
+\f1\fs20\lang1045\langfe2057\langnp1045\insrsid12391862\charrsid12391862  drewnie),}{\rtlch\fcs1 \af215\afs20 \ltrch\fcs0 \f215\fs20\lang1045\langfe2057\langnp1045\insrsid12391862\charrsid12391862  a nast\'eapnie przyciskami u do\'b3u okre\'9cl, jak\'b9
+ ilo\'9c\'e6 pragniesz da\'e6 lub otrzyma\'e6. Mo\'bfesz wyzerowa\'e6 ustalon\'b9 ilo\'9c\'e6 za pomoc\'b9 }{\rtlch\fcs1 \af1\afs20 \ltrch\fcs0 \f1\fs20\lang1045\langfe2057\langnp1045\insrsid12391862\charrsid12391862 ikony}{\rtlch\fcs1 \af215\afs20 
+\ltrch\fcs0 \f215\fs20\lang1045\langfe2057\langnp1045\insrsid12391862\charrsid12391862  kciuka skierowanego w d\'f3\'b3. }{\rtlch\fcs1 \af1\afs20 \ltrch\fcs0 \f1\fs20\lang1045\langfe2057\langnp1045\insrsid12391862\charrsid12391862 
+\par 
+\par Opcje }{\rtlch\fcs1 \af215\afs20 \ltrch\fcs0 \f215\fs20\lang1045\langfe2057\langnp1045\insrsid12391862\charrsid12391862 d\'9fwi\'eaku zosta\'b3y rozszerzone o funkcj\'ea dodatkow\'b9}{\rtlch\fcs1 \af1\afs20 \ltrch\fcs0 
+\f1\fs20\lang1045\langfe2057\langnp1045\insrsid12391862\charrsid12391862  \endash }{\rtlch\fcs1 \af215\afs20 \ltrch\fcs0 \f215\fs20\lang1045\langfe2057\langnp1045\insrsid12391862\charrsid12391862  komentarze D\'bfina. Pozwala ona wy\'b3\'b9czy\'e6
+ komentarze wyg\'b3aszane w trakcie gry, takie jak te}{\rtlch\fcs1 \af1\afs20 \ltrch\fcs0 \f1\fs20\lang1045\langfe2057\langnp1045\insrsid12391862\charrsid12391862 , kt\'f3re}{\rtlch\fcs1 \af215\afs20 \ltrch\fcs0 
+\f215\fs20\lang1045\langfe2057\langnp1045\insrsid12391862\charrsid12391862  dotycz\'b9 najwi\'eakszego lorda}{\rtlch\fcs1 \af1\afs20 \ltrch\fcs0 \f1\fs20\lang1045\langfe2057\langnp1045\insrsid12391862\charrsid12391862 ,
+ oraz komentarze Skryby po zatrzymaniu i wznowieniu gry.
+\par  
+\par W trybie gry wieloosobowej}{\rtlch\fcs1 \af215\afs20 \ltrch\fcs0 \f215\fs20\lang1045\langfe2057\langnp1045\insrsid12391862\charrsid12391862  gospodarz rozgrywki mo\'bfe okre\'9cli\'e6 kilka dodatkowych ustawie\'f1. S\'b9 to: }{\rtlch\fcs1 \af1\afs20 
+\ltrch\fcs0 \f1\fs20\lang1045\langfe2057\langnp1045\insrsid12391862\charrsid12391862 
+\par \'84Bez miotania krowami\'94}{\rtlch\fcs1 \af215\afs20 \ltrch\fcs0 \f215\fs20\lang1045\langfe2057\langnp1045\insrsid12391862\charrsid12391862  \endash  trebusze i katapulty nie mog\'b9 miota\'e6 nios\'b9cych zaraz\'ea kr\'f3w}{\rtlch\fcs1 \af1\afs20 
+\ltrch\fcs0 \f1\fs20\lang1045\langfe2057\langnp1045\insrsid12391862\charrsid12391862 .
+\par \'84Bez ps\'f3w\'94}{\rtlch\fcs1 \af215\afs20 \ltrch\fcs0 \f215\fs20\lang1045\langfe2057\langnp1045\insrsid12391862\charrsid12391862  \endash  nie mo\'bfna budowa\'e6 kojc\'f3w ps\'f3w bojowych. }{\rtlch\fcs1 \af1\afs20 \ltrch\fcs0 
+\f1\fs20\lang1045\langfe2057\langnp1045\insrsid12391862\charrsid12391862 
+\par \'84Be}{\rtlch\fcs1 \af215\afs20 \ltrch\fcs0 \f215\fs20\lang1045\langfe2057\langnp1045\insrsid12391862\charrsid12391862 z po\'9cpiechu}{\rtlch\fcs1 \af1\afs20 \ltrch\fcs0 \f1\fs20\lang1045\langfe2057\langnp1045\insrsid12391862\charrsid12391862 \'94 
+\endash  opcja ta po}{\rtlch\fcs1 \af215\afs20 \ltrch\fcs0 \f215\fs20\lang1045\langfe2057\langnp1045\insrsid12391862\charrsid12391862 zwala okre\'9cli\'e6 czas trwania zawieszenia broni, w trakcie kt\'f3rego \'bfaden z graczy nie mo\'bfe zaatakowa\'e6
+ innego ani rekrutowa\'e6 jednostek militarnych.}{\rtlch\fcs1 \af1\afs20 \ltrch\fcs0 \f1\fs20\lang1045\langfe2057\langnp1045\insrsid12391862\charrsid12391862 
+\par 
+\par }{\rtlch\fcs1 \af215\afs20 \ltrch\fcs0 \f215\fs20\lang1045\langfe2057\langnp1045\insrsid12391862\charrsid12391862 Edytor scenariuszy pozwala tworzy\'e6 w\'b3asne mapy budowy zamku, krzy\'bfowca oraz pojedync}{\rtlch\fcs1 \af1\afs20 \ltrch\fcs0 
+\f1\fs20\lang1045\langfe2057\langnp1045\insrsid12391862\charrsid12391862 ze scenariusze. Mapy scena}{\rtlch\fcs1 \af215\afs20 \ltrch\fcs0 \f215\fs20\lang1045\langfe2057\langnp1045\insrsid12391862\charrsid12391862 riuszy obejmuj\'b9 zar\'f3
+wno mapy do rozgrywki inwazji}{\rtlch\fcs1 \af1\afs20 \ltrch\fcs0 \f1\fs20\lang1045\langfe2057\langnp1045\insrsid12391862\charrsid12391862 ,}{\rtlch\fcs1 \af215\afs20 \ltrch\fcs0 \f215\fs20\lang1045\langfe2057\langnp1045\insrsid12391862\charrsid12391862 
+ jak i mapy ekonomiczne z w\'b3asnym, zdefiniowanym przez autora ci\'b9giem wydarze\'f1.}{\rtlch\fcs1 \af1\afs20 \ltrch\fcs0 \f1\fs20\lang1045\langfe2057\langnp1045\insrsid12391862\charrsid12391862 
+\par 
+\par }{\rtlch\fcs1 \af215\afs20 \ltrch\fcs0 \f215\fs20\lang1045\langfe2057\langnp1045\insrsid12391862\charrsid12391862 Ekran mistrz\'f3w walk \endash  w tym miejscu wymienione s\'b9 mapy, na kt\'f3rych rozegra\'b3e\'9c pojedyncz\'b9 gr\'ea lub przeszed\'b3e
+\'9c szlakiem krucjaty. Mo\'bfna sortowa\'e6 je wed\'b3ug nazw, }{\rtlch\fcs1 \af1\afs20 \ltrch\fcs0 \f1\fs20\lang1045\langfe2057\langnp1045\insrsid12391862\charrsid12391862 liczby}{\rtlch\fcs1 \af215\afs20 \ltrch\fcs0 
+\f215\fs20\lang1045\langfe2057\langnp1045\insrsid12391862\charrsid12391862  zdobytych punkt\'f3w, czasu gry lub daty. Klikni\'eacie na mapie wy\'9cwietla dodatkowe informacje na jej temat. Klikni\'eacie prawym przyciskiem myszy pozwala usun\'b9\'e6 wybran
+\'b9 map\'ea. Wyniki  s\'b9 zapisywan}{\rtlch\fcs1 \af1\afs20 \ltrch\fcs0 \f1\fs20\lang1045\langfe2057\langnp1045\insrsid12391862\charrsid12391862 e w pliku \'84skmasters.dat\'94.}{\rtlch\fcs1 \af215\afs20 \ltrch\fcs0 
+\f215\fs20\lang1045\langfe2057\langnp1045\insrsid12391862\charrsid12391862   Na ekranie wynik\'f3w mo\'bfe by\'e6 wy\'9cwietlonych do 250 gier.}{\rtlch\fcs1 \af1\afs20 \ltrch\fcs0 \f1\fs20\lang1045\langfe2057\langnp1045\insrsid12391862\charrsid12391862 
+
+\par 
+\par }{\rtlch\fcs1 \af215\afs20 \ltrch\fcs0 \f215\fs20\lang1045\langfe2057\langnp1045\insrsid12391862\charrsid12391862 Si\'b3a lorda \endash  lordowie r\'f3\'bfnych graczy komputerowych znacznie r\'f3\'bfni\'b9 si\'ea swoimi si\'b3ami. Si\'b3\'ea lorda obrazuj
+\'b9 kolorowe kropki nad jego g\'b3ow\'b9. Kolor niebieski oznacza silniejsze}{\rtlch\fcs1 \af1\afs20 \ltrch\fcs0 \f1\fs20\lang1045\langfe2057\langnp1045\insrsid12391862\charrsid12391862 go przeciwnika, natomiast }{\rtlch\fcs1 \af215\afs20 \ltrch\fcs0 
+\f215\fs20\lang1045\langfe2057\langnp1045\insrsid12391862\charrsid12391862 \'bf\'f3\'b3ty }{\rtlch\fcs1 \af1\afs20 \ltrch\fcs0 \f1\fs20\lang1045\langfe2057\langnp1045\insrsid12391862\charrsid12391862 \endash  }{\rtlch\fcs1 \af215\afs20 \ltrch\fcs0 
+\f215\fs20\lang1045\langfe2057\langnp1045\insrsid12391862\charrsid12391862 s\'b3abszego.  Nad g\'b3ow\'b9 lorda mo\'bfe pojawi\'e6 si\'ea do pi\'eaciu kolorowych kropek. Poniewa\'bf si\'b3a lorda gracza jest u\'9credniona, nad jego g\'b3ow\'b9 nie s\'b9
+ wy\'9cwietlane kropki. }{\rtlch\fcs1 \af1\afs20 \ltrch\fcs0 \f1\fs20\lang1045\langfe2057\langnp1045\insrsid12391862\charrsid12391862 
+\par }{\rtlch\fcs1 \af1\afs20 \ltrch\fcs0 \f1\fs20\lang1045\langfe2057\langnp1045\insrsid12391862 
+\par }{\rtlch\fcs1 \af1\afs20 \ltrch\fcs0 \f1\fs20\lang1045\langfe2057\langnp1045\insrsid5846042\charrsid12391862 
+\par }\pard\plain \ltrpar\s2\ql \li0\ri0\nowidctlpar\wrapdefault\aspalpha\aspnum\faauto\outlinelevel1\adjustright\rin0\lin0\itap0\pararsid12391862 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 \fs24\lang2057\langfe2057\cgrid\langnp2057\langfenp2057 {
+\rtlch\fcs1 \ab\af1\afs20 \ltrch\fcs0 \b\f1\fs20\lang1045\langfe2057\langnp1045\insrsid12391862\charrsid5846042 Rozdzia}{\rtlch\fcs1 \ab\af215\afs20 \ltrch\fcs0 \b\f215\fs20\lang1045\langfe2057\langnp1045\insrsid12391862\charrsid5846042 \'b3}{\rtlch\fcs1 
+\ab\af1\afs20 \ltrch\fcs0 \b\f1\fs20\lang1045\langfe2057\langnp1045\insrsid12391862\charrsid5846042  5 -}{\rtlch\fcs1 \ab\af215\afs20 \ltrch\fcs0 \b\f215\fs20\lang1045\langfe2057\langnp1045\insrsid12391862\charrsid5846042  Personalizacja ustawie\'f1}{
+\rtlch\fcs1 \ab\af1\afs20 \ltrch\fcs0 \b\f1\fs20\lang1045\langfe2057\langnp1045\insrsid12391862\charrsid5846042 
+\par }\pard\plain \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid12391862 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 \fs24\lang2057\langfe2057\cgrid\langnp2057\langfenp2057 {\rtlch\fcs1 \af1\afs20 
+\ltrch\fcs0 \f1\fs20\lang1045\langfe2057\langnp1045\insrsid12391862\charrsid12391862 
+\par }{\rtlch\fcs1 \af215\afs20 \ltrch\fcs0 \f215\fs20\lang1045\langfe2057\langnp1045\insrsid12391862\charrsid12391862 Mo\'bfesz wybra\'e6 lorda, w kt\'f3rego posta\'e6 wcielisz si\'ea w trakc}{\rtlch\fcs1 \af1\afs20 \ltrch\fcs0 
+\f1\fs20\lang1045\langfe2057\langnp1045\insrsid12391862\charrsid12391862 ie gry. Do wyboru masz lorda k}{\rtlch\fcs1 \af215\afs20 \ltrch\fcs0 \f215\fs20\lang1045\langfe2057\langnp1045\insrsid12391862\charrsid12391862 rzy\'bfowca i }{\rtlch\fcs1 
+\af1\afs20 \ltrch\fcs0 \f1\fs20\lang1045\langfe2057\langnp1045\insrsid12391862\charrsid12391862 lorda a}{\rtlch\fcs1 \af215\afs20 \ltrch\fcs0 \f215\fs20\lang1045\langfe2057\langnp1045\insrsid12391862\charrsid12391862 rabskiego. Tw\'f3j wyb\'f3r nie b\'ea
+dzie mia\'b3 wp\'b3ywu na typ jednostek, kt\'f3re b\'eadziesz m\'f3g\'b3 rekrutowa\'e6, jednak okre\'9cli on te jednostki, z kt\'f3rymi rozpoczniesz gr\'ea.}{\rtlch\fcs1 \af1\afs20 \ltrch\fcs0 
+\f1\fs20\lang1045\langfe2057\langnp1045\insrsid12391862\charrsid12391862 
+\par 
+\par }{\rtlch\fcs1 \af215\afs20 \ltrch\fcs0 \f215\fs20\lang1045\langfe2057\langnp1045\insrsid12391862\charrsid12391862 Mo\'bfesz r\'f3wnie\'bf zmieni\'e6 portret, kt\'f3ry pojawi si\'ea po przesuni\'eaciu kursora myszy nad w\'b3asny zamek (portret ten ujrz\'b9
+ r\'f3wnie\'bf inni gracze prowadz\'b9cy z tob\'b9 rozgrywk\'ea w trybie }{\rtlch\fcs1 \af1\afs20 \ltrch\fcs0 \f1\fs20\lang1045\langfe2057\langnp1045\insrsid12391862\charrsid12391862 dla }{\rtlch\fcs1 \af215\afs20 \ltrch\fcs0 
+\f215\fs20\lang1045\langfe2057\langnp1045\insrsid12391862\charrsid12391862 wielu graczy w pe\'b3nej wersji gry). W\'b3asny portret mo\'bfesz zmodyfikowa\'e6 po otwarciu pliku }{\rtlch\fcs1 \af1\afs20 \ltrch\fcs0 
+\f1\fs20\lang1045\langfe2057\langnp1045\insrsid12391862\charrsid12391862 \'84faces.bmp\'94}{\rtlch\fcs1 \af215\afs20 \ltrch\fcs0 \f215\fs20\lang1045\langfe2057\langnp1045\insrsid12391862\charrsid12391862  (umieszczonego w katalogu g\'b3\'f3wny
+m gry) w edytorze grafiki. Zauwa\'bf, \'bfe dwa miejsca s\'b9 wolne \endash  tam mo\'bfesz umie\'9cci\'e6 w\'b3asny portret. Rozmiar twojego portretu musi by\'e6 r\'f3wny 64 x 64 }{\rtlch\fcs1 \af1\afs20 \ltrch\fcs0 
+\f1\fs20\lang1045\langfe2057\langnp1045\insrsid12391862\charrsid12391862 piksele.
+\par \tab 
+\par 
+\par }\pard\plain \ltrpar\s2\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\outlinelevel1\rin0\lin0\itap0\pararsid12391862 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 \fs24\lang2057\langfe2057\cgrid\langnp2057\langfenp2057 {\rtlch\fcs1 \ab\af1\afs20 \ltrch\fcs0 
+\b\f1\fs20\lang1045\langfe2057\langnp1045\insrsid12391862\charrsid12391862 Rozdzia}{\rtlch\fcs1 \ab\af215\afs20 \ltrch\fcs0 \b\f215\fs20\lang1045\langfe2057\langnp1045\insrsid12391862\charrsid12391862 \'b3 }{\rtlch\fcs1 \ab\af1\afs20 \ltrch\fcs0 
+\b\f1\fs20\lang1045\langfe2057\langnp1045\insrsid12391862\charrsid12391862 6 \endash  Tryb wieloosobowy
+\par }\pard\plain \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid12391862 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 \fs24\lang2057\langfe2057\cgrid\langnp2057\langfenp2057 {\rtlch\fcs1 \af1\afs20 
+\ltrch\fcs0 \f1\fs20\lang1045\langfe2057\langnp1045\insrsid12391862\charrsid12391862 
+\par }{\rtlch\fcs1 \ab\af215\afs20 \ltrch\fcs0 \b\f215\fs20\lang1045\langfe2057\langnp1045\insrsid12391862\charrsid12391862 Tryb wieloosobowy w Twierdzy: Krzy\'bfowiec}{\rtlch\fcs1 \ab\af1\afs20 \ltrch\fcs0 
+\b\f1\fs20\lang1045\langfe2057\langnp1045\insrsid12391862\charrsid12391862 
+\par }{\rtlch\fcs1 \af1\afs20 \ltrch\fcs0 \f1\fs20\lang1045\langfe2057\langnp1045\insrsid12391862\charrsid12391862 
+\par }{\rtlch\fcs1 \af215\afs20 \ltrch\fcs0 \f215\fs20\lang1045\langfe2057\langnp1045\insrsid12391862\charrsid12391862 Je\'9cli Tw\'f3j komputer jest pod\'b3\'b9czony do routera/firewalla, musisz przekserowa\'e6 nast\'eapuj\'b9
+ce porty Microsoft DirectPlay. Inaczej rozgrywka wieloosobowa w Twierdzy: Krzy\'bfowiec nie b\'eadzie mo\'bfliwa.}{\rtlch\fcs1 \af1\afs20 \ltrch\fcs0 \f1\fs20\lang1045\langfe2057\langnp1045\insrsid12391862\charrsid12391862 
+\par 
+\par \ltrrow}\trowd \irow0\irowband0\ltrrow\ts11\trgaph108\trleft-108\trbrdrt\brdrs\brdrw10 \trbrdrl\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trbrdrr\brdrs\brdrw10 \trftsWidth1\trpaddl108\trpaddr108\trpaddfl3\trpaddfr3\tblrsid14959078\tblind0\tblindtype3 
+\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth3510\clshdrawnil \cellx3402\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr
+\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth2835\clshdrawnil \cellx6237\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth2268\clshdrawnil \cellx8505\pard \ltrpar
+\ql \li0\ri0\widctlpar\intbl\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\pararsid14959078 {\rtlch\fcs1 \af215\afs20 \ltrch\fcs0 \f215\fs20\lang1045\langfe2057\langnp1045\insrsid12391862\charrsid12391862 Wst\'eapne po\'b3\'b9czenie TCP}{
+\rtlch\fcs1 \af1\afs20 \ltrch\fcs0 \f1\fs20\lang1045\langfe2057\langnp1045\insrsid12391862\charrsid12391862 \cell }{\rtlch\fcs1 \af215\afs20 \ltrch\fcs0 \f215\fs20\lang1045\langfe2057\langnp1045\insrsid12391862\charrsid12391862 47624 wychodz\'b9cy}{
+\rtlch\fcs1 \af1\afs20 \ltrch\fcs0 \f1\fs20\lang1045\langfe2057\langnp1045\insrsid12391862\charrsid12391862 \cell }{\rtlch\fcs1 \af215\afs20 \ltrch\fcs0 \f215\fs20\lang1045\langfe2057\langnp1045\insrsid12391862\charrsid12391862 47624 przychodz\'b9cy}{
+\rtlch\fcs1 \af1\afs20 \ltrch\fcs0 \f1\fs20\lang1045\langfe2057\langnp1045\insrsid12391862\charrsid12391862 \cell }\pard \ltrpar\ql \li0\ri0\widctlpar\intbl\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0 {\rtlch\fcs1 \af1\afs20 \ltrch\fcs0 
+\f1\fs20\lang1045\langfe2057\langnp1045\insrsid12391862\charrsid12391862 \trowd \irow0\irowband0\ltrrow\ts11\trgaph108\trleft-108\trbrdrt\brdrs\brdrw10 \trbrdrl\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trbrdrr\brdrs\brdrw10 
+\trftsWidth1\trpaddl108\trpaddr108\trpaddfl3\trpaddfr3\tblrsid14959078\tblind0\tblindtype3 \clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth3510\clshdrawnil \cellx3402
+\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth2835\clshdrawnil \cellx6237\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr
+\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth2268\clshdrawnil \cellx8505\row \ltrrow}\pard \ltrpar\ql \li0\ri0\widctlpar\intbl\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\pararsid14959078 {\rtlch\fcs1 \af215\afs20 \ltrch\fcs0 
+\f215\fs20\lang1045\langfe2057\langnp1045\insrsid12391862\charrsid12391862 Po\'b3\'b9czenia przychodz\'b9ce TCP}{\rtlch\fcs1 \af1\afs20 \ltrch\fcs0 \f1\fs20\lang1045\langfe2057\langnp1045\insrsid12391862\charrsid12391862 \cell 2300-2400\cell 2300-2400
+\cell }\pard \ltrpar\ql \li0\ri0\widctlpar\intbl\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0 {\rtlch\fcs1 \af1\afs20 \ltrch\fcs0 \f1\fs20\lang1045\langfe2057\langnp1045\insrsid12391862\charrsid12391862 \trowd \irow1\irowband1\ltrrow
+\ts11\trgaph108\trleft-108\trbrdrt\brdrs\brdrw10 \trbrdrl\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trbrdrr\brdrs\brdrw10 \trftsWidth1\trpaddl108\trpaddr108\trpaddfl3\trpaddfr3\tblrsid14959078\tblind0\tblindtype3 \clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl
+\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth3510\clshdrawnil \cellx3402\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 
+\cltxlrtb\clftsWidth3\clwWidth2835\clshdrawnil \cellx6237\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth2268\clshdrawnil \cellx8505\row \ltrrow}\pard \ltrpar
+\ql \li0\ri0\widctlpar\intbl\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\pararsid14959078 {\rtlch\fcs1 \af1\afs20 \ltrch\fcs0 \f1\fs20\lang1045\langfe2057\langnp1045\insrsid12391862\charrsid12391862 Po}{\rtlch\fcs1 \af215\afs20 \ltrch\fcs0 
+\f215\fs20\lang1045\langfe2057\langnp1045\insrsid12391862\charrsid12391862 \'b3\'b9czenia wychodz\'b9ce TCP}{\rtlch\fcs1 \af1\afs20 \ltrch\fcs0 \f1\fs20\lang1045\langfe2057\langnp1045\insrsid12391862\charrsid12391862 \cell 2300-2400\cell 2300-2400\cell 
+}\pard \ltrpar\ql \li0\ri0\widctlpar\intbl\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0 {\rtlch\fcs1 \af1\afs20 \ltrch\fcs0 \f1\fs20\lang1045\langfe2057\langnp1045\insrsid12391862\charrsid12391862 \trowd \irow2\irowband2\ltrrow
+\ts11\trgaph108\trleft-108\trbrdrt\brdrs\brdrw10 \trbrdrl\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trbrdrr\brdrs\brdrw10 \trftsWidth1\trpaddl108\trpaddr108\trpaddfl3\trpaddfr3\tblrsid14959078\tblind0\tblindtype3 \clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl
+\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth3510\clshdrawnil \cellx3402\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 
+\cltxlrtb\clftsWidth3\clwWidth2835\clshdrawnil \cellx6237\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth2268\clshdrawnil \cellx8505\row \ltrrow}\pard \ltrpar
+\ql \li0\ri0\widctlpar\intbl\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\pararsid14959078 {\rtlch\fcs1 \af215\afs20 \ltrch\fcs0 \f215\fs20\lang1045\langfe2057\langnp1045\insrsid12391862\charrsid12391862 Po\'b3\'b9czenia przychodz\'b9ce UDP}{
+\rtlch\fcs1 \af1\afs20 \ltrch\fcs0 \f1\fs20\lang1045\langfe2057\langnp1045\insrsid12391862\charrsid12391862 \cell 2300-2400\cell 2300-2400\cell }\pard \ltrpar\ql \li0\ri0\widctlpar\intbl\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0 {
+\rtlch\fcs1 \af1\afs20 \ltrch\fcs0 \f1\fs20\lang1045\langfe2057\langnp1045\insrsid12391862\charrsid12391862 \trowd \irow3\irowband3\ltrrow\ts11\trgaph108\trleft-108\trbrdrt\brdrs\brdrw10 \trbrdrl\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trbrdrr
+\brdrs\brdrw10 \trftsWidth1\trpaddl108\trpaddr108\trpaddfl3\trpaddfr3\tblrsid14959078\tblind0\tblindtype3 \clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth3510\clshdrawnil 
+\cellx3402\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth2835\clshdrawnil \cellx6237\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 
+\clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth2268\clshdrawnil \cellx8505\row \ltrrow}\pard \ltrpar\ql \li0\ri0\widctlpar\intbl\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\pararsid14959078 {\rtlch\fcs1 \af215\afs20 \ltrch\fcs0 
+\f215\fs20\lang1045\langfe2057\langnp1045\insrsid12391862\charrsid12391862 Po\'b3\'b9czenia wychodz\'b9ce UDP}{\rtlch\fcs1 \af1\afs20 \ltrch\fcs0 \f1\fs20\lang1045\langfe2057\langnp1045\insrsid12391862\charrsid12391862 \cell 2300-2400\cell 2300-2400\cell 
+}\pard \ltrpar\ql \li0\ri0\widctlpar\intbl\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0 {\rtlch\fcs1 \af1\afs20 \ltrch\fcs0 \f1\fs20\lang1045\langfe2057\langnp1045\insrsid12391862\charrsid12391862 \trowd \irow4\irowband4\lastrow \ltrrow
+\ts11\trgaph108\trleft-108\trbrdrt\brdrs\brdrw10 \trbrdrl\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trbrdrr\brdrs\brdrw10 \trftsWidth1\trpaddl108\trpaddr108\trpaddfl3\trpaddfr3\tblrsid14959078\tblind0\tblindtype3 \clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl
+\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth3510\clshdrawnil \cellx3402\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 
+\cltxlrtb\clftsWidth3\clwWidth2835\clshdrawnil \cellx6237\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth2268\clshdrawnil \cellx8505\row }\pard \ltrpar
+\ql \li0\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid12391862 {\rtlch\fcs1 \af1\afs20 \ltrch\fcs0 \f1\fs20\lang1045\langfe2057\langnp1045\insrsid12391862\charrsid12391862 
+\par }{\rtlch\fcs1 \af215\afs20 \ltrch\fcs0 \f215\fs20\lang1045\langfe2057\langnp1045\insrsid12391862\charrsid12391862 Je\'9cli nie radzisz sobie z konfiguracj\'b9 routera, odwied\'9f stron\'ea portforward.com, na kt\'f3rej wspaniale obja\'9c
+niono ustawienia 1000 r\'f3\'bfnych urz\'b9dze\'f1.}{\rtlch\fcs1 \af1\afs20 \ltrch\fcs0 \f1\fs20\lang1045\langfe2057\langnp1045\insrsid12391862\charrsid12391862 
+\par 
+\par http://www.portforward.com/english/routers/port_forwarding/routerindex.htm
+\par 
+\par }{\rtlch\fcs1 \ab\af1\afs20 \ltrch\fcs0 \b\f1\fs20\lang1045\langfe2057\langnp1045\insrsid12391862\charrsid12391862 Firewall systemu Windows
+\par }{\rtlch\fcs1 \af1\afs20 \ltrch\fcs0 \f1\fs20\lang1045\langfe2057\langnp1045\insrsid12391862\charrsid12391862 
+\par }\pard \ltrpar\ql \li180\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin180\itap0\pararsid12391862 {\rtlch\fcs1 \af1\afs20 \ltrch\fcs0 \f1\fs20\lang1045\langfe2057\langnp1045\insrsid12391862\charrsid12391862 1.\tab Otw\'f3rz \'84
+Panel sterowania\'94 > Windows Firewall.
+\par }{\rtlch\fcs1 \af215\afs20 \ltrch\fcs0 \f215\fs20\lang1045\langfe2057\langnp1045\insrsid12391862\charrsid12391862 2.\tab Wybierz zak\'b3adk\'ea \'84Wyj\'b9tki\'94.}{\rtlch\fcs1 \af1\afs20 \ltrch\fcs0 
+\f1\fs20\lang1045\langfe2057\langnp1045\insrsid12391862\charrsid12391862 
+\par }{\rtlch\fcs1 \af215\afs20 \ltrch\fcs0 \f215\fs20\lang1045\langfe2057\langnp1045\insrsid12391862\charrsid12391862 3.\tab Je\'9cli gier Twierdza: Krzy\'bfowie}{\rtlch\fcs1 \af1\afs20 \ltrch\fcs0 
+\f1\fs20\lang1045\langfe2057\langnp1045\insrsid12391862\charrsid12391862 c nie ma na liscie, kliknij \'84Dodaj program\'94.
+\par }{\rtlch\fcs1 \af215\afs20 \ltrch\fcs0 \f215\fs20\lang1045\langfe2057\langnp1045\insrsid12391862\charrsid12391862 4.\tab Wybierz Twierdza: Krzy\'bfowiec i kliknij OK.}{\rtlch\fcs1 \af1\afs20 \ltrch\fcs0 
+\f1\fs20\lang1045\langfe2057\langnp1045\insrsid12391862\charrsid12391862 
+\par 5}{\rtlch\fcs1 \af215\afs20 \ltrch\fcs0 \f215\fs20\lang1045\langfe2057\langnp1045\insrsid12391862\charrsid12391862 .\tab Kliknij OK, aby zamkn\'b9\'e6 ustawienia firewalla systemu Windows.}{\rtlch\fcs1 \af1\afs20 \ltrch\fcs0 
+\f1\fs20\lang1045\langfe2057\langnp1045\insrsid12391862\charrsid12391862 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid12391862 {\rtlch\fcs1 \ab\af1\afs20 \ltrch\fcs0 \b\f1\fs20\ul\lang1045\langfe2057\langnp1045\insrsid12391862 
+\par }{\rtlch\fcs1 \ab\af1\afs20 \ltrch\fcs0 \b\f1\fs20\ul\lang1045\langfe2057\langnp1045\insrsid5846042\charrsid12391862 
+\par }\pard\plain \ltrpar\s2\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\outlinelevel1\rin0\lin0\itap0\pararsid12391862 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 \fs24\lang2057\langfe2057\cgrid\langnp2057\langfenp2057 {\rtlch\fcs1 \ab\af215\afs20 
+\ltrch\fcs0 \b\f215\fs20\lang1045\langfe2057\langnp1045\insrsid12391862\charrsid12391862 Rozdzia\'b3 }{\rtlch\fcs1 \ab\af1\afs20 \ltrch\fcs0 \b\f1\fs20\lang1045\langfe2057\langnp1045\insrsid12391862\charrsid12391862 7 \endash 
+ GameSpy Arcade i Windows Vista
+\par }\pard\plain \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid12391862 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 \fs24\lang2057\langfe2057\cgrid\langnp2057\langfenp2057 {\rtlch\fcs1 \af1\afs20 
+\ltrch\fcs0 \f1\fs20\lang1045\langfe2057\langnp1045\insrsid12391862\charrsid12391862 
+\par }{\rtlch\fcs1 \af215\afs20 \ltrch\fcs0 \f215\fs20\lang1045\langfe2057\langnp1045\insrsid12391862\charrsid12391862 Aby toczy\'e6 rozgrywki wieloosobowe za po\'9crednictwem Arcade w systemie Windows Vista, nale\'bfy zainstalowa\'e6
+ Windows Vista Service Pack .}{\rtlch\fcs1 \af1\afs20 \ltrch\fcs0 \f1\fs20\lang1045\langfe2057\langnp1045\insrsid12391862\charrsid12391862 
+\par 
+\par }}
